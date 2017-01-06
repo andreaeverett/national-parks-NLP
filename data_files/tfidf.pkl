@@ -1,0 +1,11303 @@
+(dp0
+S'GRBA'
+p1
+(lp2
+Vgreat basin
+p3
+aVlehman caves
+p4
+aVbristlecone pines
+p5
+aVdesert
+p6
+aVnatural
+p7
+aVunique
+p8
+aVwheeler peak
+p9
+aVsky
+p10
+aVnevada
+p11
+aVbeauty
+p12
+aVbristle cone
+p13
+aVbasin range
+p14
+aVbristlecones
+p15
+aVstar gazing
+p16
+asS'KALA'
+p17
+(lp18
+Vpatients
+p19
+aVmedical
+p20
+aVhawaiian culture
+p21
+aVhd
+p22
+aVhistory hanson
+p23
+aVhanson disease
+p24
+aVkalaupapa history
+p25
+aVhistory kalaupapa
+p26
+aVpeople sent
+p27
+aVleprosy
+p28
+aVcare
+p29
+aVhawaii history
+p30
+aVcompassion
+p31
+aVforced
+p32
+aVresidents
+p33
+aVcommunity
+p34
+aVimportant remember
+p35
+aVremember history
+p36
+aVlessons
+p37
+aVhope
+p38
+asS'CUVA'
+p39
+(lp40
+Verie canal
+p41
+aVnature
+p42
+aVtowpath
+p43
+aVurban areas
+p44
+aVohio erie
+p45
+aVcleveland akron
+p46
+ag7
+aVcanal history
+p47
+aVcuyahoga
+p48
+ag12
+aVhistory canal
+p49
+aVtow path
+p50
+aVpreservation
+p51
+aVnational park
+p52
+aVlocks
+p53
+ag33
+aVcanals
+p54
+aVfalls
+p55
+aVgreat
+p56
+asS'CARL'
+p57
+(lp58
+Vcarl sandburg
+p59
+aVwife
+p60
+aVamerican poet
+p61
+aVcelebrates life
+p62
+aVpoetry
+p63
+aVgoats
+p64
+aVpoet author
+p65
+aVgreat poet
+p66
+aVsandburg great
+p67
+aVpulitzer prize
+p68
+aVlife carl
+p69
+aVsandburg writings
+p70
+aVmr sandburg
+p71
+aVchampion
+p72
+aVwriters
+p73
+aVhistorian
+p74
+aVlife works
+p75
+aVhistory
+p76
+asS'HAMP'
+p77
+(lp78
+Vperiod
+p79
+aVhouse
+p80
+aVarchitecture furnishings
+p81
+aVslavery early
+p82
+aVbaltimore area
+p83
+aVhistory baltimore
+p84
+aVmd history
+p85
+aVmansion history
+p86
+aVmaster
+p87
+aVrich poor
+p88
+aVslaves
+p89
+aVhome
+p90
+aVmaryland
+p91
+aVplantations
+p92
+aVexample
+p93
+aVlifestyles
+p94
+aVhistory slavery
+p95
+aVhistory family
+p96
+aVlived
+p97
+asS'CANA'
+p98
+(lp99
+Vnasa
+p100
+aVunspoiled beach
+p101
+aVspace center
+p102
+aVkennedy space
+p103
+aVnatural beach
+p104
+aVflorida
+p105
+aVbeaches
+p106
+aVboard walk
+p107
+aVtourist best
+p108
+aVbuilt tourist
+p109
+aVtemperate tropical
+p110
+aVspoiling allows
+p111
+aVexpanse land
+p112
+aVpeace severity
+p113
+aVrunning board
+p114
+aValligators turtles
+p115
+aVtourists enjoy
+p116
+aVlaunches
+p117
+aVlocal cities
+p118
+aVpreserved close
+p119
+aVremain structures
+p120
+aVhabitat running
+p121
+aVtropical zones
+p122
+aVpreserved especially
+p123
+aVaffordability great
+p124
+asS'SAGA'
+p125
+(lp126
+Vsculptor
+p127
+aVsaint gaudens
+p128
+aVst gaudens
+p129
+aVartists
+p130
+aVamerican artist
+p131
+aVarts
+p132
+aVgreat artist
+p133
+aVaugustus
+p134
+aVart music
+p135
+ag87
+aVsculptures
+p136
+aVsubjects
+p137
+aVworks
+p138
+aVproperties
+p139
+aVpeople events
+p140
+aVartistic
+p141
+aVgardens
+p142
+aVimportant
+p143
+aVpark
+p144
+aVmonuments
+p145
+aVamerican people
+p146
+asS'GUMO'
+p147
+(lp148
+Vknowledgeable engaging
+p149
+aVlaboratory
+p150
+aVwildlife
+p151
+ag6
+aVtallest
+p152
+ag76
+aVgeology
+p153
+aVhiking trails
+p154
+aVingenuity
+p155
+ag7
+aVparts
+p156
+ag8
+aVcollege students
+p157
+aVsettlers volunteer
+p158
+aVstudents enjoying
+p159
+aVhigh geologic
+p160
+aVranger ranch
+p161
+aVavailable share
+p162
+aVdon areas
+p163
+aVmaps expanded
+p164
+aVexperience lots
+p165
+aVprecious lands
+p166
+aVreef sequence
+p167
+aVvaried canyon
+p168
+aVreef valuable
+p169
+aVcabin knowledgeable
+p170
+asS'GWCA'
+p171
+(lp172
+Vwashington carver
+p173
+aVgeorge washington
+p174
+aVdr carver
+p175
+aVscientist
+p176
+ag76
+aVadversity
+p177
+aVcontributions
+p178
+aVblack
+p179
+aVman overcame
+p180
+aVgeorge carver
+p181
+aVafrican americans
+p182
+aVinspirational
+p183
+aVgwc
+p184
+aVcarver life
+p185
+aVman rose
+p186
+aVslavery
+p187
+aVgreat man
+p188
+aVinventions
+p189
+aVachieve
+p190
+asS'MEVE'
+p191
+(lp192
+Vcliff dwellings
+p193
+aVancient
+p194
+aVnative american
+p195
+aVcultural
+p196
+aVmesa verde
+p197
+aVcultures
+p198
+aVanasazi
+p199
+aVhistory pueblo
+p200
+ag97
+aVcivilization
+p201
+aVhistorical
+p202
+aVancestral puebloans
+p203
+ag51
+ag143
+aVdwellings incredible
+p204
+aVincredible learn
+p205
+aVhistory people
+p206
+asS'LOWE'
+p207
+(lp208
+Vindustrial revolution
+p209
+aVhistory industrial
+p210
+aVlabor
+p211
+aVindustrialization
+p212
+aVmanufacturing
+p213
+aVtextiles
+p214
+aVtextile industry
+p215
+aVinnovation
+p216
+aVplanned
+p217
+aVimmigration
+p218
+aVhistory mills
+p219
+aVhistory lowell
+p220
+aVindustrial city
+p221
+aVrevolution america
+p222
+aVbeginning industrial
+p223
+aVamerican industrial
+p224
+aVworkers
+p225
+aVsocial
+p226
+aVindustrial age
+p227
+aVlowell role
+p228
+aVhistoric industrial
+p229
+aVlowell important
+p230
+asS'KATM'
+p231
+(lp232
+g151
+aVbears salmon
+p233
+aVbears natural
+p234
+aVbrown bears
+p235
+aVnatural habitat
+p236
+aVwild life
+p237
+aVbears bears
+p238
+ag42
+aVprotection
+p239
+aVenvironment
+p240
+ag8
+aVview
+p241
+aValaskan
+p242
+aVvalley smokes
+p243
+aVhabitat bears
+p244
+aVbears preservation
+p245
+aVbear salmon
+p246
+aVgrizzly
+p247
+asS'CONG'
+p248
+(lp249
+Vold growth
+p250
+aVforest old
+p251
+aVhabitat
+p252
+aVforest wildlife
+p253
+aVpreservation old
+p254
+ag42
+aVflood plain
+p255
+ag8
+ag7
+aVgrowth forests
+p256
+aVtall trees
+p257
+aVvegetation
+p258
+aVplants
+p259
+aVeco
+p260
+aVbald cypress
+p261
+aVswamp environment
+p262
+asS'LIBO'
+p263
+(lp264
+Vabe lincoln
+p265
+aVabraham lincoln
+p266
+aVboyhood home
+p267
+aVlincoln boyhood
+p268
+aVhistory abe
+p269
+aVlincoln life
+p270
+aVearly years
+p271
+aVgreatest president
+p272
+aVpresident lincoln
+p273
+aVformative years
+p274
+aVlincoln childhood
+p275
+aVlincoln early
+p276
+aVindiana
+p277
+aVyears lincoln
+p278
+aVyears president
+p279
+aVlincoln grew
+p280
+aVpresident memorial
+p281
+asS'COWP'
+p282
+(lp283
+Vrevolutionary war
+p284
+aVturning point
+p285
+ag76
+aVsouthern campaign
+p286
+aVcowpens
+p287
+aVvictory
+p288
+aVamerican revolution
+p289
+aVyorktown
+p290
+aVpoint southern
+p291
+aVbritish
+p292
+aVwon
+p293
+aVrev war
+p294
+aVimportant battle
+p295
+aVimportant revolutionary
+p296
+aVwar important
+p297
+aVbattle took
+p298
+aVwar independence
+p299
+asS'HAVO'
+p300
+(lp301
+g21
+aVlava
+p302
+aVvolcanic activity
+p303
+ag7
+ag76
+ag8
+aVactive volcanoes
+p304
+aVgeological
+p305
+ag196
+ag143
+aVearth
+p306
+aVclose
+p307
+ag144
+aVexperience
+p308
+aVnature active
+p309
+aVvolcanoes volcano
+p310
+aVlive volcano
+p311
+aVvolcano amazing
+p312
+aVpeople active
+p313
+aVpower mother
+p314
+asS'BEOL'
+p315
+(lp316
+Vsanta fe
+p317
+aVfe trail
+p318
+ag76
+aVfort
+p319
+aVtrading post
+p320
+aVpast
+p321
+aVwestern
+p322
+aVtrapping
+p323
+aVwestward expansion
+p324
+aVpioneers
+p325
+aVfur trade
+p326
+aVfrontier
+p327
+aVrelations
+p328
+aVlife
+p329
+aVmexican indian
+p330
+aVintercultural
+p331
+aVimportant westward
+p332
+asS'CANY'
+p333
+(lp334
+g42
+ag51
+aVgrand canyon
+p335
+aVnatural beauty
+p336
+ag153
+aVopen
+p337
+aVrock formations
+p338
+aVbeauty unique
+p339
+aVunique natural
+p340
+aVgeological history
+p341
+aVscenic
+p342
+aVcanyons beautiful
+p343
+aVcanyons amazing
+p344
+aVcountry visitors
+p345
+aVamazing rock
+p346
+aVviews
+p347
+aVtype landscape
+p348
+asS'DAAV'
+p349
+(lp350
+Vwright brothers
+p351
+aVdunbar
+p352
+aVhistory flight
+p353
+aVaviation history
+p354
+aVhistory wright
+p355
+aVpaul
+p356
+aVhistory aviation
+p357
+aVpowered
+p358
+aVinvention
+p359
+aVearly aviation
+p360
+aVdayton
+p361
+aVaviation flight
+p362
+ag216
+aVwright bros
+p363
+aVaviation wright
+p364
+aVcontrolled
+p365
+aVglobal aviation
+p366
+aVflight beginnings
+p367
+aVbirth flight
+p368
+aVwrights
+p369
+aVaviation aviation
+p370
+aVlawrence
+p371
+asS'GAAR'
+p372
+(lp373
+Vtrue wilderness
+p374
+aValaska
+p375
+aVwilderness maintain
+p376
+aVartic
+p377
+aVanwr
+p378
+aVarctic environment
+p379
+aVwilderness rare
+p380
+aVmaintain local
+p381
+aVnorthern
+p382
+aVgreat wilderness
+p383
+ag151
+aVunderstand appreciate
+p384
+aVuntouched
+p385
+aVbeauty mountains
+p386
+aVlocal culture
+p387
+aVwilderness areas
+p388
+aVremoteness
+p389
+aVlower
+p390
+ag8
+aVintact
+p391
+aVlarge
+p392
+aVplace
+p393
+asS'ARPO'
+p394
+(lp395
+Vsettlement lower
+p396
+aVlower mississippi
+p397
+aVarkansas history
+p398
+aVpost
+p399
+aVeuropean settlement
+p400
+aVcivil war
+p401
+aVhistory arkansas
+p402
+aVexpeditions
+p403
+aVwar battle
+p404
+aVriver
+p405
+aVwest mississippi
+p406
+aVsettlement west
+p407
+aVfrench
+p408
+aVvalley
+p409
+aVmovie
+p410
+aVindian settlement
+p411
+aVteaches significance
+p412
+aVshare took
+p413
+aVindians import
+p414
+aVplus place
+p415
+asS'FOLS'
+p416
+(lp417
+g318
+ag317
+aVtrail history
+p418
+aVindian military
+p419
+aVsante fe
+p420
+aVtrail helps
+p421
+aVmilitary history
+p422
+aVhistory santa
+p423
+aVfort santa
+p424
+aVhistory military
+p425
+ag327
+aVexpansion
+p426
+aVindian wars
+p427
+aVamerican west
+p428
+aVtrail indian
+p429
+aVguardian
+p430
+aVmilitary trail
+p431
+aVwestward
+p432
+aVmilitary life
+p433
+aVmail
+p434
+aVindians
+p435
+asS'THRI'
+p436
+(lp437
+Vtheodore roosevelt
+p438
+aVpresidency
+p439
+aVpresidential history
+p440
+aVmckinley
+p441
+aVpresidents
+p442
+aVinaugural
+p443
+aVteddy roosevelt
+p444
+aVbuffalo
+p445
+aVpresident roosevelt
+p446
+aVinaugurated
+p447
+aVassassination
+p448
+ag202
+aVsite
+p449
+aVpan
+p450
+aVroosevelt sworn
+p451
+aVtransition
+p452
+aVinauguration president
+p453
+aVissues
+p454
+aVcentury
+p455
+aVinauguration important
+p456
+asS'KEMO'
+p457
+(lp458
+g401
+aVwar history
+p459
+aVhistory civil
+p460
+aVatlanta
+p461
+aVwar battlefield
+p462
+aVsherman
+p463
+ag202
+aVhistory preservation
+p464
+aVconfederate
+p465
+aVsignificance civil
+p466
+aVmtn history
+p467
+aVfought civil
+p468
+aVkennesaw mtn
+p469
+aVbattle kennesaw
+p470
+ag56
+aVsoldiers fought
+p471
+aVpreserve civil
+p472
+aVwar civil
+p473
+aVpublic significance
+p474
+aVhistory battlefield
+p475
+asS'MONO'
+p476
+(lp477
+g401
+aVbattle saved
+p478
+aVwashington dc
+p479
+aVsaved washington
+p480
+aVmonocracy
+p481
+aVhistory battle
+p482
+aVimportant civil
+p483
+aVinvasion
+p484
+aVforces
+p485
+aVsaved union
+p486
+ag459
+aVprevented
+p487
+aVwashington history
+p488
+aVconfederates
+p489
+ag298
+aVnation capital
+p490
+ag462
+asS'DEPO'
+p491
+(lp492
+Vcountry preserving
+p493
+aVunique geological
+p494
+ag399
+aVsignificant geology
+p495
+aVwestern geological
+p496
+aVnature offering
+p497
+aVgenerations animals
+p498
+aVterrain recreational
+p499
+aVexceptional landscape
+p500
+aVglaciers volcano
+p501
+aVproud service
+p502
+aVspaniard colonists
+p503
+aVoffering nice
+p504
+aVappreciate capabilities
+p505
+aVpreserve magnificent
+p506
+aVrainbow falls
+p507
+aVca belonged
+p508
+aVcolonists ca
+p509
+aVthank geologic
+p510
+aVmeadows beautiful
+p511
+aVorigins based
+p512
+aVnatural structure
+p513
+aVnice origins
+p514
+aValpine environment
+p515
+aVutter importance
+p516
+aVgeological experience
+p517
+aVenvironment enjoying
+p518
+asS'SAHI'
+p519
+(lp520
+Vtr
+p521
+ag444
+aVwhite house
+p522
+aVsummer white
+p523
+aVgreat presidents
+p524
+aVhistory legacy
+p525
+aVlearn great
+p526
+aVfamily
+p527
+aVrenovations air
+p528
+aVlegacy resident
+p529
+aVroosevelt home
+p530
+aVpreservation tangible
+p531
+aVforget greatest
+p532
+aVroosevelt honor
+p533
+aVbest significant
+p534
+aVleading person
+p535
+aVfabulous museum
+p536
+aVresident theodore
+p537
+aVlittle np
+p538
+asS'LONG'
+p539
+(lp540
+g174
+aVwashington longfellow
+p541
+aVliterature
+p542
+aVwashington headquarters
+p543
+ag90
+ag202
+aVheadquarters longfellow
+p544
+aVlongfellow house
+p545
+aVpoets
+p546
+aVsignificance washington
+p547
+ag284
+aVhenry longfellow
+p548
+aVlongfellow washington
+p549
+aVfigures
+p550
+aVliterary history
+p551
+aVhq
+p552
+aVlongfellow family
+p553
+aVtour
+p554
+aVwashington stayed
+p555
+asS'GLCA'
+p556
+(lp557
+Vglen canyon
+p558
+aVreserve
+p559
+aVrainbow bridge
+p560
+aVlake powell
+p561
+aVdam history
+p562
+aVwater recreation
+p563
+aVusage
+p564
+ag393
+aVarea
+p565
+aVboating
+p566
+aVcanyons
+p567
+ag405
+aVbeauty beautiful
+p568
+aVcalifornia
+p569
+ag7
+aVfishing
+p570
+ag527
+aVrocks
+p571
+ag6
+asS'MANA'
+p572
+(lp573
+g401
+aVbull run
+p574
+aVbattle bull
+p575
+aVbattle civil
+p576
+aVbattles civil
+p577
+ag404
+aVbattlefield
+p578
+aVbattles manassas
+p579
+aVwar historical
+p580
+ag449
+aVfreedom
+p581
+aVland battle
+p582
+aVremembering civil
+p583
+aVnation history
+p584
+aVinsight civil
+p585
+aVrepeat
+p586
+aVimportant battles
+p587
+aVcosts
+p588
+aVmajor battle
+p589
+asS'JECA'
+p590
+(lp591
+g7
+aVunderground
+p592
+aVlargest cave
+p593
+ag305
+ag76
+aVcave caves
+p594
+aVcave world
+p595
+ag8
+aVexploration
+p596
+aVformation
+p597
+aVtreasure
+p598
+aVcaves enjoy
+p599
+aVjewel cave
+p600
+ag51
+ag554
+aVwonders
+p601
+aVblack hills
+p602
+aVbig cave
+p603
+aVbeauty scientific
+p604
+aVlength
+p605
+aVexplore caves
+p606
+ag153
+aVrock
+p607
+aVopportunity
+p608
+asS'CARE'
+p609
+(lp610
+g305
+aVfruita
+p611
+aVmormon
+p612
+aVunique geology
+p613
+aVorchards
+p614
+aVwater pocket
+p615
+aVfremont
+p616
+ag338
+ag196
+aVgeology history
+p617
+aVpocket fold
+p618
+aVbeautiful
+p619
+ag336
+aVnative
+p620
+aVpioneer history
+p621
+aVpreserve
+p622
+aVunique landscape
+p623
+aVsettlers
+p624
+asS'KLSE'
+p625
+(lp626
+Vgold rush
+p627
+aVhistory seattle
+p628
+aVklondike gold
+p629
+aVseattle history
+p630
+aVyukon
+p631
+ag375
+aVgrowth
+p632
+aVseattle preserving
+p633
+aVpioneer square
+p634
+aVrush significant
+p635
+aVseattle area
+p636
+aVseattle major
+p637
+aVdevelopment seattle
+p638
+ag143
+aVrush history
+p639
+aVtime
+p640
+aVmajor city
+p641
+aVhistory north
+p642
+aVstart
+p643
+aVhistorical event
+p644
+asS'VOYA'
+p645
+(lp646
+Vvoyageurs
+p647
+ag76
+aVvoyagers
+p648
+aVnorth woods
+p649
+aVlakes
+p650
+aVfur
+p651
+aVeagles
+p652
+ag336
+ag144
+aVwoods lake
+p653
+aVlake country
+p654
+ag570
+ag42
+ag565
+aVhelp preserve
+p655
+aVgreat visit
+p656
+aVwaterways
+p657
+ag151
+aVtrading
+p658
+ag408
+aVroute
+p659
+asS'NAVA'
+p660
+(lp661
+Vhopi history
+p662
+aVhistory hopi
+p663
+aVruins
+p664
+aVnavajo national
+p665
+aVinformation plants
+p666
+aVancestral puebloan
+p667
+aVhistory native
+p668
+aVculture history
+p669
+aVrespect
+p670
+aVindian
+p671
+aVheritage good
+p672
+ag196
+ag193
+aVnative people
+p673
+ag194
+aVnational monument
+p674
+aVpreservation culture
+p675
+asS'FOSC'
+p676
+(lp677
+g401
+ag324
+aVfort scott
+p678
+aVbleeding kansas
+p679
+aVwar westward
+p680
+aVforts
+p681
+ag459
+aVsoldiers
+p682
+aVplains life
+p683
+aVft scott
+p684
+aVks mo
+p685
+aVfrontier civil
+p686
+aVfree state
+p687
+aVprotection settlers
+p688
+aVscott important
+p689
+aVkansas civil
+p690
+asS'FOPU'
+p691
+(lp692
+g401
+aVtechnology
+p693
+ag459
+aVhistory georgia
+p694
+ag460
+ag89
+aVwarfare
+p695
+aVnation
+p696
+aVrifling
+p697
+aVusable
+p698
+ag681
+aVcannon
+p699
+aVsignificant
+p700
+aVartillery
+p701
+aVmilitary
+p702
+ag56
+aVwar fort
+p703
+aVwar shaped
+p704
+aVfort important
+p705
+aVbattles
+p706
+aVemancipation
+p707
+aVfort history
+p708
+aVdefend
+p709
+aVhistory provide
+p710
+asS'FOST'
+p711
+(lp712
+g284
+aVfrench indian
+p713
+aVindian war
+p714
+ag289
+ag292
+aVwars
+p715
+ag435
+aVfort french
+p716
+aVft stanwix
+p717
+aVset tone
+p718
+aVrome
+p719
+ag459
+ag696
+aVtells story
+p720
+aVbattle
+p721
+aVfreedom revolutionary
+p722
+ag296
+asS'BUIS'
+p723
+(lp724
+Vprotect coral
+p725
+aVturtles
+p726
+aVocean
+p727
+aVcoral reefs
+p728
+aVfish
+p729
+aVmarine life
+p730
+aVcorals
+p731
+aVbuck island
+p732
+aVfun
+p733
+aVunderwater
+p734
+aVsnorkeling
+p735
+ag151
+ag12
+aVcoral protect
+p736
+aVcoral preservation
+p737
+aVamazing coral
+p738
+aVprotection coral
+p739
+aVreef beautiful
+p740
+aVreef coming
+p741
+asS'BOST'
+p742
+(lp743
+Vboston
+p744
+aVbunker hill
+p745
+ag721
+aVjourney independence
+p746
+aVnps helps
+p747
+aVimportance defense
+p748
+aVhistory navy
+p749
+ag289
+aVfight liberty
+p750
+aVliberty freedom
+p751
+aVfreedom trail
+p752
+aVhistory freedom
+p753
+aVnaval
+p754
+aVrevolutionary
+p755
+aVfought
+p756
+aVhistory america
+p757
+ag202
+aVfreedom history
+p758
+aVcolonists
+p759
+asS'EFMO'
+p760
+(lp761
+Vnative americans
+p762
+ag143
+ag668
+aVpeoples
+p763
+aVburial grounds
+p764
+ag196
+ag198
+ag194
+aVamerican history
+p765
+aVpreserving native
+p766
+ag51
+ag622
+aVheritage
+p767
+aVamerican culture
+p768
+aVsacred
+p769
+ag321
+aVindian mounds
+p770
+ag565
+asS'SAJU'
+p771
+(lp772
+Vpuerto rico
+p773
+aVhistory puerto
+p774
+aVspanish
+p775
+ag202
+aVsan juan
+p776
+ag143
+aVpr
+p777
+aVcaribbean
+p778
+aVculture
+p779
+aVpanama canal
+p780
+aVrico amazing
+p781
+ag319
+aVtourists
+p782
+aVisland
+p783
+aVdata
+p784
+aVsignificance
+p785
+ag702
+ag196
+aVrelevance
+p786
+aVimportance
+p787
+aVgreat history
+p788
+aVcolonialism
+p789
+asS'ANJO'
+p790
+(lp791
+Vandrew johnson
+p792
+aVconstitution
+p793
+aVjohnson president
+p794
+aVpresident andrew
+p795
+ag442
+aVreconstruction
+p796
+ag439
+aVhistory president
+p797
+aVtailor president
+p798
+aVhistory andrew
+p799
+aVlincoln
+p800
+aVpresident johnson
+p801
+ag401
+ag329
+aVjohnson history
+p802
+aVpresidential
+p803
+aVjohnson important
+p804
+aVjohnson home
+p805
+aVhome president
+p806
+aVlearn
+p807
+asS'WICR'
+p808
+(lp809
+g401
+ag404
+aVunion general
+p810
+aVgeneral killed
+p811
+aVmo
+p812
+ag297
+ag589
+aVmissouri civil
+p813
+ag576
+aVmissouri union
+p814
+aVbattlegrounds
+p815
+aVearly civil
+p816
+aVmajor civil
+p817
+aVunderstanding american
+p818
+ag460
+ag577
+aVsacred ground
+p819
+aVcw
+p820
+asS'OBRI'
+p821
+(lp822
+g7
+ag12
+aVplateau
+p823
+aVfree flowing
+p824
+aVwild river
+p825
+aVwilderness
+p826
+aVwaterway
+p827
+aVgorge amazing
+p828
+aVtennessee
+p829
+aVgenerations enjoy
+p830
+aVcumberland
+p831
+aVflowing river
+p832
+aVbluffs
+p833
+ag619
+aVscenic river
+p834
+aVwild scenic
+p835
+aVrecreational
+p836
+aVkayaking
+p837
+aVwild areas
+p838
+ag42
+ag51
+asS'GRKO'
+p839
+(lp840
+Vhistory ranching
+p841
+aVcattle ranching
+p842
+aVhistory cattle
+p843
+aVopen range
+p844
+aVranching history
+p845
+aVcowboy
+p846
+aVranches
+p847
+aVcattle industry
+p848
+aVfarming
+p849
+aVranching cattle
+p850
+aVrange cattle
+p851
+ag322
+aVhistory west
+p852
+aVera
+p853
+aVhistory montana
+p854
+aVworking
+p855
+ag56
+aVranching life
+p856
+aVbeef
+p857
+asS'TAPR'
+p858
+(lp859
+Vtall grass
+p860
+aVtallgrass prairie
+p861
+aVprairie left
+p862
+ag7
+aVprairie ecosystem
+p863
+aVtrue prairie
+p864
+aVbeautiful prairie
+p865
+ag76
+aVgrasses
+p866
+aVprairie preservation
+p867
+aVremnant
+p868
+aVpreserving
+p869
+aVkansas
+p870
+aVplains
+p871
+aVremaining
+p872
+aVpreserve prairie
+p873
+aVgrass bison
+p874
+aVprairie preserved
+p875
+aVimportant tall
+p876
+asS'CUGA'
+p877
+(lp878
+Vgateway west
+p879
+ag324
+aVcumberland gap
+p880
+ag624
+aVdaniel boone
+p881
+aVexpansion west
+p882
+aVpark gives
+p883
+ag325
+aVcommunities
+p884
+aVwest history
+p885
+aVtravel
+p886
+ag202
+aVopening
+p887
+ag143
+aVprovided path
+p888
+aVviews unification
+p889
+aVtrail second
+p890
+aVtrail blazers
+p891
+aVvoyage discovery
+p892
+asS'CACL'
+p893
+(lp894
+Vborn nation
+p895
+aVconstruction learning
+p896
+aVrepresents protect
+p897
+aVnation construction
+p898
+aVprotect country
+p899
+aVcountry fort
+p900
+aVhistory represents
+p901
+aVlearning history
+p902
+aVgeology elements
+p903
+aVgeology excellent
+p904
+aVgeology enjoying
+p905
+aVgeology environment
+p906
+aVgeology effect
+p907
+aVgeology ethnic
+p908
+aVgeology evidence
+p909
+aVgeology elevation
+p910
+aVgeology formed
+p911
+aVgeology exceptional
+p912
+aVgeology flora
+p913
+aVgeology fun
+p914
+aVgeology expression
+p915
+asS'HOFU'
+p916
+(lp917
+Vhistory iron
+p918
+aViron industry
+p919
+aViron ore
+p920
+aVworked
+p921
+aVsignificance iron
+p922
+aViron production
+p923
+aVearly industrial
+p924
+aVindustrial development
+p925
+aVsteel
+p926
+aVgreat heritage
+p927
+aVproducts
+p928
+aVneeded
+p929
+aVcountry great
+p930
+ag34
+aVamerica
+p931
+aVworkers providing
+p932
+aVconnected technology
+p933
+aVreminder industrial
+p934
+aVproviding stoves
+p935
+aVlife agricultural
+p936
+asS'CHAM'
+p937
+(lp938
+Vborder dispute
+p939
+aVcooperation
+p940
+aVpeaceful resolution
+p941
+aVcountries
+p942
+aVconflict
+p943
+aVchamizal
+p944
+aVtreaty mexico
+p945
+aVrio grande
+p946
+aVhistory mexico
+p947
+aVfriendship
+p948
+aVrelations mexico
+p949
+aVdispute mexico
+p950
+aVresolution border
+p951
+aVagreement mexico
+p952
+aVdispute resolution
+p953
+aVel paso
+p954
+asS'SAFR'
+p955
+(lp956
+Vmaritime history
+p957
+aVships
+p958
+aVsan francisco
+p959
+aVhistory maritime
+p960
+aVhistory sf
+p961
+aVshipping
+p962
+aVsailing
+p963
+aVhistory san
+p964
+aVfrancisco bay
+p965
+ag569
+aVcommerce
+p966
+aVport
+p967
+aVwest coast
+p968
+aVsf history
+p969
+aVboats history
+p970
+aVsea
+p971
+aVwharf
+p972
+aVtrade
+p973
+aVbay area
+p974
+aVcity sf
+p975
+asS'FRIA'
+p976
+(lp977
+Vlandscape architecture
+p978
+aVparks
+p979
+ag76
+aVfrederick law
+p980
+aVurban
+p981
+aVlandscaping
+p982
+aVlaw olmsted
+p983
+aVfirm
+p984
+aVprofession
+p985
+aVflo
+p986
+aVarchitecture olmstead
+p987
+aVinfluence
+p988
+aVlandscape design
+p989
+aVlandscapes
+p990
+aVdesigned
+p991
+aVcities
+p992
+aVwork
+p993
+ag143
+ag744
+aVspaces
+p994
+aVorigins landscape
+p995
+asS'HOFR'
+p996
+(lp997
+Vhistory fdr
+p998
+aVfdr eleanor
+p999
+ag803
+ag442
+aVhome fdr
+p1000
+aVpresident fdr
+p1001
+aVhome library
+p1002
+aVgreatest
+p1003
+aVgreat president
+p1004
+aVdepression
+p1005
+aVfdr president
+p1006
+aVfdr shaped
+p1007
+aVneed fdr
+p1008
+aVfdr history
+p1009
+aVimportance fdr
+p1010
+ag329
+aVdisability
+p1011
+aVterm president
+p1012
+aVworld
+p1013
+aVmuseum
+p1014
+aVextraordinary
+p1015
+ag640
+aVdocuments
+p1016
+asS'CAVO'
+p1017
+(lp1018
+Vvolcano great
+p1019
+aVcinder cone
+p1020
+aVcone volcano
+p1021
+aVdormant volcano
+p1022
+ag305
+aVvolcanoes
+p1023
+ag42
+aVvolcano volcano
+p1024
+aVgreat volcano
+p1025
+aVexample cinder
+p1026
+aVformation volcano
+p1027
+aVvolcano natural
+p1028
+aVactual volcano
+p1029
+aVvolcano cinder
+p1030
+aVformed
+p1031
+aVvolcano history
+p1032
+aVhistory volcano
+p1033
+aVlearning geology
+p1034
+ag303
+asS'GOGAi'
+p1035
+(lp1036
+g959
+aVvs sutra
+p1037
+aVharris vs
+p1038
+aVlands end
+p1039
+aVsutro baths
+p1040
+ag969
+ag7
+aVcombination
+p1041
+ag12
+aVmajestic
+p1042
+ag981
+aVfrancisco local
+p1043
+aVbathes legions
+p1044
+aVnature coastal
+p1045
+aVstories bring
+p1046
+aVscenery lands
+p1047
+aVcity heritage
+p1048
+aVpool teach
+p1049
+asS'RABR'
+p1050
+(lp1051
+g560
+aVarch
+p1052
+aVnavajo
+p1053
+ag42
+ag561
+ag76
+ag619
+aVwater
+p1054
+ag8
+ag670
+ag762
+aVmonument
+p1055
+aVsacred native
+p1056
+ag336
+ag1013
+ag671
+aVnational
+p1057
+aVamazing
+p1058
+ag393
+ag779
+asS'BIHO'
+p1059
+(lp1060
+Vnez perce
+p1061
+aVhistory nez
+p1062
+ag721
+ag427
+ag762
+aVsad
+p1063
+aVgovernment
+p1064
+aVremember
+p1065
+ag143
+aVnez pierce
+p1066
+aVperce history
+p1067
+aVbig hole
+p1068
+aVmoving
+p1069
+aVtreated
+p1070
+aVmemorial
+p1071
+ag673
+ag435
+aVtreatment native
+p1072
+asS'HAFE'
+p1073
+(lp1074
+g401
+aVjohn brown
+p1075
+aVraid
+p1076
+aVbrown civil
+p1077
+aVcivil rights
+p1078
+aVrights history
+p1079
+aVrebellion
+p1080
+aVlewis
+p1081
+aVhistorical importance
+p1082
+ag644
+ag459
+ag473
+ag297
+aVrivers
+p1083
+ag706
+aVtrail john
+p1084
+aVmovement civil
+p1085
+aVstorer
+p1086
+aVmoment nations
+p1087
+aVgrowth economy
+p1088
+asS'OLYM'
+p1089
+(lp1090
+Vmountains
+p1091
+ag826
+aVcoastline
+p1092
+ag8
+aVtrees
+p1093
+ag250
+ag42
+ag336
+aVrain forests
+p1094
+aVcoast rainforest
+p1095
+ag619
+aVtemperate
+p1096
+aVjehovah
+p1097
+aVdiverse ecosystems
+p1098
+aVcoastal
+p1099
+ag830
+aVoceans
+p1100
+aVpools
+p1101
+ag56
+asS'EDAL'
+p1102
+(lp1103
+Vallen poe
+p1104
+aVedgar allen
+p1105
+ag73
+aVliterary genius
+p1106
+aVamerican author
+p1107
+aVliteracy
+p1108
+aVedgar allan
+p1109
+aVallan poe
+p1110
+ag551
+ag138
+aVwritten
+p1111
+ag90
+aVgreat authors
+p1112
+aVpoe literary
+p1113
+aVpoe life
+p1114
+aVlife poe
+p1115
+aVphiladelphia important
+p1116
+asS'MAVA'
+p1117
+(lp1118
+Vvan buren
+p1119
+aVmartin van
+p1120
+aVpolitical
+p1121
+aVparty
+p1122
+ag442
+aVmvb
+p1123
+aVpolitics time
+p1124
+ag143
+aVfigure
+p1125
+aVdutch
+p1126
+aVhome significant
+p1127
+aVdemocratic
+p1128
+aVpresidential home
+p1129
+aVny
+p1130
+aVpresident history
+p1131
+aVoverlooked
+p1132
+ag56
+aVtour guide
+p1133
+ag853
+aVpersonal
+p1134
+asS'GOGAa'
+p1135
+(lp1136
+Vprison history
+p1137
+aVhistory prison
+p1138
+aVfederal prison
+p1139
+aVprison historical
+p1140
+aVhistory alcatraz
+p1141
+ag702
+aVprisoners
+p1142
+aVhistory history
+p1143
+aVaudio
+p1144
+aVhistorical landmark
+p1145
+aVinteresting
+p1146
+aVpenitentiary
+p1147
+aVbirds
+p1148
+aVhistory historical
+p1149
+aVlocation history
+p1150
+ag959
+aVsecurity
+p1151
+aVhistorical value
+p1152
+ag143
+aVhistory island
+p1153
+ag56
+asS'CAVE'
+p1154
+(lp1155
+Vcaverns
+p1156
+aVnatural wonders
+p1157
+aVwonders world
+p1158
+aVexperience natural
+p1159
+ag306
+aVcarlsbad
+p1160
+ag12
+ag305
+aVextremely unique
+p1161
+aVkind
+p1162
+aVbats
+p1163
+aVnature god
+p1164
+aVcaves unique
+p1165
+aVteaching people
+p1166
+aVprotect
+p1167
+aVpeople ages
+p1168
+asS'HAFO'
+p1169
+(lp1170
+Vminidoka
+p1171
+aVhagerman horse
+p1172
+aVfossil beds
+p1173
+ag153
+ag565
+aVepoch
+p1174
+ag305
+ag56
+aVprehistoric
+p1175
+ag51
+aVcamel
+p1176
+aVfossils pliocene
+p1177
+aVbonneville
+p1178
+aVhorse fossil
+p1179
+aVstamp nps
+p1180
+aVhistory japanese
+p1181
+aVfossils awesome
+p1182
+aVinternment
+p1183
+aVmammoth
+p1184
+aVhistory wwii
+p1185
+ag321
+asS'GOGAe'
+p1186
+(lp1187
+Vgolden gate
+p1188
+aVgate bridge
+p1189
+aVpresidio
+p1190
+aVbay
+p1191
+ag702
+ag959
+aVsf
+p1192
+ag619
+aVbridge view
+p1193
+aVfort point
+p1194
+ag981
+aVcity
+p1195
+aVbusy
+p1196
+aVspace
+p1197
+aVenvironment love
+p1198
+aVarmy base
+p1199
+aVhistory golden
+p1200
+aVproximity golden
+p1201
+aVgg
+p1202
+aVviews golden
+p1203
+asS'EDIS'
+p1204
+(lp1205
+Vthomas edison
+p1206
+aVinventor
+p1207
+aVedison history
+p1208
+aVindustrial
+p1209
+aVedison inventions
+p1210
+aVimportance edison
+p1211
+aVedison genius
+p1212
+aVtoday
+p1213
+aVthings
+p1214
+aVamerican innovation
+p1215
+ag1013
+ag143
+ag56
+aVcreativity
+p1216
+aVindustry
+p1217
+aVmr edison
+p1218
+aVedison contributions
+p1219
+aVinventions edison
+p1220
+aVcontributions edison
+p1221
+asS'PORE'
+p1222
+(lp1223
+g252
+ag12
+aVseashore
+p1224
+ag239
+ag619
+ag151
+aVclimate change
+p1225
+aVcoastal environment
+p1226
+aVvariety natural
+p1227
+aVclose urban
+p1228
+ag144
+ag958
+aVlighthouses
+p1229
+ag42
+ag957
+ag1092
+aVanimals
+p1230
+aVsafety
+p1231
+aVeasily
+p1232
+ag569
+asS'LECL'
+p1233
+(lp1234
+Vlewis clark
+p1235
+aVclark expedition
+p1236
+ag324
+aVlearn lewis
+p1237
+aVhistory lewis
+p1238
+aVcorps discovery
+p1239
+ag202
+aVwinter
+p1240
+ag143
+aVexploration west
+p1241
+aVpacific
+p1242
+aVclark exploration
+p1243
+aVdiscovery west
+p1244
+aVclark history
+p1245
+aVexpedition lewis
+p1246
+ag696
+aVnw
+p1247
+aVwestward exploration
+p1248
+aVopening west
+p1249
+asS'CURE'
+p1250
+(lp1251
+g570
+aVbeauty water
+p1252
+aVlargest body
+p1253
+aVrailroad
+p1254
+aVsalmon
+p1255
+aVrecreation preservation
+p1256
+aVwater storage
+p1257
+ag565
+ag566
+aVpreservation beauty
+p1258
+ag619
+aVwest
+p1259
+aVpotential camping
+p1260
+aVdoes really
+p1261
+aVutilizing resources
+p1262
+aVbeauty measure
+p1263
+aVresource run
+p1264
+aVbody colorado
+p1265
+aVuse future
+p1266
+aVlake perfect
+p1267
+aVmanagement beauty
+p1268
+asS'RICH'
+p1269
+(lp1270
+g401
+ag460
+ag20
+aVmedicine
+p1271
+aViron works
+p1272
+aVwar richmond
+p1273
+aVrichmond role
+p1274
+ag465
+ag297
+ag1209
+ag202
+aVsouth
+p1275
+aVsacrifice
+p1276
+aVnation civil
+p1277
+ag449
+aVbattlefields
+p1278
+ag483
+aVcapitol confederacy
+p1279
+aVadvance richmond
+p1280
+aVconfederacy civil
+p1281
+asS'BRCA'
+p1282
+(lp1283
+g305
+ag336
+aVbryce
+p1284
+ag338
+aVstudent volunteer
+p1285
+aVvolunteer katy
+p1286
+ag42
+ag1013
+ag153
+aVfeatures
+p1287
+aVscenery unique
+p1288
+aVkaty great
+p1289
+aVtaxes pay
+p1290
+aVgreat student
+p1291
+aVformation hoodoos
+p1292
+aVpaiute
+p1293
+aVkatie
+p1294
+ag568
+aVearth beauty
+p1295
+asS'BUFF'
+p1296
+(lp1297
+Vbuffalo river
+p1298
+aVnational river
+p1299
+aVbeautiful river
+p1300
+aVriver beautiful
+p1301
+ag336
+aVannoying
+p1302
+aVozark
+p1303
+aVnature river
+p1304
+aVclean beautiful
+p1305
+ag824
+aVchildren grandchildren
+p1306
+aVriver natural
+p1307
+aVsurrounding area
+p1308
+ag622
+ag252
+ag1054
+aVrecreational opportunities
+p1309
+ag1083
+asS'EISE'
+p1310
+(lp1311
+Vike
+p1312
+ag442
+aVgettysburg
+p1313
+aVeisenhower important
+p1314
+aVhistory eisenhower
+p1315
+aVpresident eisenhower
+p1316
+ag90
+aVgeneral president
+p1317
+ag401
+aVpresident life
+p1318
+aVlife eisenhower
+p1319
+aVeisenhower history
+p1320
+aVeisenhower great
+p1321
+ag797
+aVgreat general
+p1322
+ag803
+aVleaders
+p1323
+aVpresident lived
+p1324
+ag80
+aVtrue history
+p1325
+asS'HOCU'
+p1326
+(lp1327
+Vhopewell culture
+p1328
+aVmounds
+p1329
+aVhopewell people
+p1330
+aVearth works
+p1331
+aVpreserving ancient
+p1332
+aVohio
+p1333
+aVhistory hopewell
+p1334
+aVhope people
+p1335
+aVprehistoric culture
+p1336
+aVmound builders
+p1337
+aVpreserve earth
+p1338
+ag762
+aVyears ago
+p1339
+ag767
+ag668
+aVancient culture
+p1340
+asS'CHAT'
+p1341
+(lp1342
+g42
+aVgreen space
+p1343
+aVmetro area
+p1344
+aVchattahoochee river
+p1345
+aVtrout fishing
+p1346
+ag7
+aVplace enjoy
+p1347
+aVriver preservation
+p1348
+aVriver national
+p1349
+aVurban area
+p1350
+aVfriends
+p1351
+aVenjoy outdoors
+p1352
+ag619
+aVbeauty ga
+p1353
+aVspace environment
+p1354
+aVincreases awareness
+p1355
+aVcahattahoochee
+p1356
+asS'ELMO'
+p1357
+(lp1358
+g76
+aVinscriptions
+p1359
+ag775
+ag202
+ag664
+aVpueblo
+p1360
+aVel morro
+p1361
+ag196
+ag12
+aVpeople
+p1362
+aVnew mexico
+p1363
+ag195
+ag194
+aVpetroglyphs
+p1364
+aVrecord
+p1365
+ag7
+aVsignatures
+p1366
+aVtravelers
+p1367
+aVearly
+p1368
+aVmigration
+p1369
+ag144
+ag51
+ag624
+asS'DINO'
+p1370
+(lp1371
+Vdinosaur fossils
+p1372
+aVdinosaur bones
+p1373
+ag143
+aVpaleontology
+p1374
+aVhistory dinosaur
+p1375
+aVeducational ages
+p1376
+aVwall
+p1377
+ag305
+ag51
+aVexhibit
+p1378
+ag56
+ag12
+aVnatural history
+p1379
+aVearth history
+p1380
+ag153
+ag144
+ag1058
+ag622
+aVseeing
+p1381
+aVdinosaurs children
+p1382
+asS'ELMA'
+p1383
+(lp1384
+Vvolcanic landscapes
+p1385
+aVlava fields
+p1386
+ag195
+aVgeologic native
+p1387
+aVsignificance geological
+p1388
+aVlava tubes
+p1389
+aVlava flows
+p1390
+ag613
+ag196
+ag565
+aVnative history
+p1391
+aVopportunities
+p1392
+ag779
+ag1287
+aVrecent
+p1393
+aVcaves
+p1394
+ag336
+asS'FONE'
+p1395
+(lp1396
+g713
+ag714
+ag174
+aVstart french
+p1397
+ag76
+aVwashington battle
+p1398
+aVwashington early
+p1399
+aVnational road
+p1400
+aVearly career
+p1401
+aVwashington career
+p1402
+aVbeginning
+p1403
+aVwar george
+p1404
+aVfort necessity
+p1405
+aVwar washington
+p1406
+ag284
+aVnational highway
+p1407
+asS'WEFA'
+p1408
+(lp1409
+Vart history
+p1410
+aVnature art
+p1411
+aVct
+p1412
+ag141
+aVamerican impressionism
+p1413
+aVart american
+p1414
+aVamerican impressionist
+p1415
+aVart nature
+p1416
+aVhistory arts
+p1417
+aVweir farm
+p1418
+aVartists art
+p1419
+aVimpressionist art
+p1420
+aVamerican artists
+p1421
+aVpainting
+p1422
+aVart art
+p1423
+aVpark dedicated
+p1424
+asS'CHCH'
+p1425
+(lp1426
+g401
+ag460
+ag459
+aVwar battles
+p1427
+ag702
+aVremembrance
+p1428
+ag756
+aVreminder sacrifices
+p1429
+ag1275
+aVwar impact
+p1430
+aVhappened
+p1431
+aVunion
+p1432
+ag682
+ag581
+aVlearn civil
+p1433
+aVbrother
+p1434
+ag202
+aVstrategic
+p1435
+aVmen
+p1436
+ag576
+aVfield
+p1437
+asS'GICL'
+p1438
+(lp1439
+g194
+ag196
+ag202
+ag97
+ag767
+ag198
+ag321
+ag51
+ag1143
+ag7
+ag869
+ag143
+ag619
+aVindigenous people
+p1440
+aVculture people
+p1441
+ag1339
+ag762
+ag668
+ag193
+asS'THKO'
+p1442
+(lp1443
+Vindependence
+p1444
+aVmr kosciuszko
+p1445
+aVsignificant person
+p1446
+aVperson revolutionary
+p1447
+aVpoland
+p1448
+ag702
+ag284
+ag178
+aVhero
+p1449
+ag76
+ag289
+ag581
+ag1125
+aVfight
+p1450
+aVwin american
+p1451
+aVsite polish
+p1452
+aVthadeus kosciusleo
+p1453
+aVthaddeus kosciuszko
+p1454
+aVkosciuszko contribution
+p1455
+aVunion cold
+p1456
+aVhelped armies
+p1457
+aVexhibition life
+p1458
+asS'HUTR'
+p1459
+(lp1460
+Vnavajo nation
+p1461
+aVhistory navajo
+p1462
+aVmr hubbell
+p1463
+aVtrading posts
+p1464
+ag198
+aVhistory trading
+p1465
+aVnavajo history
+p1466
+aVwhite man
+p1467
+ag196
+ag435
+ag940
+aVhubble
+p1468
+ag762
+ag1362
+aVpost history
+p1469
+aVculture navajo
+p1470
+aVculture trade
+p1471
+asS'KNRI'
+p1472
+(lp1473
+g1235
+ag762
+ag435
+aVtribes
+p1474
+aVknife river
+p1475
+aVvillage
+p1476
+ag329
+ag768
+aVmandan
+p1477
+aVhidatsa culture
+p1478
+aVpreservation native
+p1479
+ag97
+aVindian culture
+p1480
+ag1236
+ag196
+ag1362
+aVnative culture
+p1481
+ag669
+asS'CHCU'
+p1482
+(lp1483
+g194
+ag198
+aVcultural heritage
+p1484
+ag195
+aVindigenous
+p1485
+ag671
+aVspiritual
+p1486
+aVchaco culture
+p1487
+ag143
+ag664
+ag10
+aVhistory culture
+p1488
+aVcultural site
+p1489
+ag1013
+ag673
+aVhistorical cultural
+p1490
+ag51
+aVheritage cultural
+p1491
+aVsites
+p1492
+aVarchaeological
+p1493
+asS'COLM'
+p1494
+(lp1495
+g336
+aVjohn otto
+p1496
+ag338
+aVcolorado plateau
+p1497
+ag42
+aVscenery
+p1498
+ag153
+ag341
+ag51
+ag567
+aVeducation natural
+p1499
+ag1055
+ag619
+aVgenerations
+p1500
+aVwild
+p1501
+aVlandscape
+p1502
+ag8
+asS'SLBE'
+p1503
+(lp1504
+Vlake michigan
+p1505
+aVdunes lake
+p1506
+aVsand dunes
+p1507
+aVlakeshore
+p1508
+ag336
+aVlake shore
+p1509
+aVcoast guard
+p1510
+ag42
+aVunique dune
+p1511
+ag76
+aVgreat lakes
+p1512
+aVshoreline
+p1513
+aVsleeping bear
+p1514
+aVwonders beautiful
+p1515
+aVmichigan love
+p1516
+asS'CHIC'
+p1517
+(lp1518
+Vnatural springs
+p1519
+aVcold springs
+p1520
+ag42
+aVclean
+p1521
+ag527
+ag76
+aVcold water
+p1522
+aVhonor chickasaw
+p1523
+aVccc
+p1524
+aVchickasaw indians
+p1525
+aVsprings wildlife
+p1526
+ag144
+ag619
+aVspend
+p1527
+ag733
+ag779
+ag393
+aVfamilies
+p1528
+aVenjoy
+p1529
+ag56
+aVbison
+p1530
+ag336
+aVrest relaxation
+p1531
+asS'PAIS'
+p1532
+(lp1533
+g7
+ag971
+aVbarrier island
+p1534
+aVbird
+p1535
+aVdoes hit
+p1536
+aVbasin awesome
+p1537
+aVgulf laguna
+p1538
+aVcontrol trucks
+p1539
+aVlost underdeveloped
+p1540
+aVshoreline conservation
+p1541
+aVundeveloped access
+p1542
+aVprotection barrier
+p1543
+aVland possible
+p1544
+aVundeveloped areas
+p1545
+aVunderdeveloped island
+p1546
+aVunderdeveloped beach
+p1547
+aVtrucks preserving
+p1548
+aVencourages people
+p1549
+aVlong lost
+p1550
+aVturtles nest
+p1551
+aVplanet thing
+p1552
+aVenvironment glad
+p1553
+asS'ELRO'
+p1554
+(lp1555
+Veleanor roosevelt
+p1556
+aVwoman
+p1557
+aVlady
+p1558
+aVwomen
+p1559
+aVhuman rights
+p1560
+aVval kill
+p1561
+ag76
+aVfranklin eleanor
+p1562
+aVfdr er
+p1563
+aVcontributions eleanor
+p1564
+ag1125
+ag999
+aVhyde
+p1565
+aVcountry fdr
+p1566
+aVladies
+p1567
+aVroosevelt important
+p1568
+aVmrs
+p1569
+ag1078
+ag56
+asS'GOGAd'
+p1570
+(lp1571
+g42
+aVpreserving redwoods
+p1572
+aVold trees
+p1573
+aVpreservation redwoods
+p1574
+aVtrees preservation
+p1575
+aVredwood trees
+p1576
+ag336
+ag619
+aVjohn muir
+p1577
+aVforests
+p1578
+aVmuir legacy
+p1579
+aVredwoods amazing
+p1580
+aVsequoias
+p1581
+aVtrees history
+p1582
+aVredwoods history
+p1583
+aVredwoods important
+p1584
+aVtrees preserve
+p1585
+asS'TUIN'
+p1586
+(lp1587
+g173
+ag174
+aVblack history
+p1588
+aVcarver tuskegee
+p1589
+aVmake aware
+p1590
+aVcontributions george
+p1591
+ag181
+aVbooker washington
+p1592
+aVblack american
+p1593
+aVagricultural
+p1594
+aVhistory george
+p1595
+ag182
+aVcontributed
+p1596
+aVeducation history
+p1597
+aVeconomic
+p1598
+aVknowing
+p1599
+aVremember magnificence
+p1600
+aVwonderful works
+p1601
+aVwashington influence
+p1602
+asS'GERO'
+p1603
+(lp1604
+Vrogers clark
+p1605
+aVgeorge rogers
+p1606
+ag284
+ag426
+aVdefeating british
+p1607
+ag76
+aVvincennes
+p1608
+ag721
+aVnorthwest territory
+p1609
+ag887
+ag596
+aVsignificant state
+p1610
+aVclark contribution
+p1611
+aVgeorge rodgers
+p1612
+aVrodgers clark
+p1613
+aVindiana territory
+p1614
+aVgrc
+p1615
+aVclark revolutionary
+p1616
+asS'PRWI'
+p1617
+(lp1618
+Vhigh population
+p1619
+aVoss training
+p1620
+aVccc history
+p1621
+aVcia
+p1622
+aVarea oss
+p1623
+aVpiedmont forest
+p1624
+aVpyrite
+p1625
+aVwwii
+p1626
+aVrapidly
+p1627
+ag7
+aVcorps
+p1628
+ag42
+aVnear
+p1629
+aVcamps
+p1630
+aVvirginia
+p1631
+ag1005
+aVdc
+p1632
+aVdeal
+p1633
+aVmining
+p1634
+ag307
+ag622
+ag1057
+asS'FLFO'
+p1635
+(lp1636
+Vfossils petrified
+p1637
+aVscientific
+p1638
+aVpetrified wood
+p1639
+aVpreserve fossils
+p1640
+ag305
+aVinsects
+p1641
+aVclimate
+p1642
+aVpetrified redwoods
+p1643
+aVpreservation fossils
+p1644
+ag869
+ag321
+aVpetrified trees
+p1645
+ag565
+aVfossils fossils
+p1646
+ag1379
+aVfossil record
+p1647
+aVfuture generations
+p1648
+aVhistory fossils
+p1649
+asS'PIRO'
+p1650
+(lp1651
+Vlake superior
+p1652
+ag336
+ag8
+aVcliffs
+p1653
+ag571
+aVhiking
+p1654
+ag76
+ag1513
+aVoutlooks
+p1655
+aVpicture rock
+p1656
+aVwaterfalls
+p1657
+ag106
+aVnatural splendor
+p1658
+ag338
+ag1500
+aVaesthetic
+p1659
+ag565
+aVmichigan
+p1660
+aVbeautiful view
+p1661
+aVgeology beautiful
+p1662
+asS'DEVA'
+p1663
+(lp1664
+g6
+aVdeath valley
+p1665
+ag153
+ag12
+ag7
+ag76
+ag1287
+ag1502
+ag1507
+ag619
+aVunique geography
+p1666
+ag1501
+aVbloom
+p1667
+aVlowest hottest
+p1668
+ag565
+aVvariety
+p1669
+ag1058
+aVflowers
+p1670
+ag305
+aVuniqueness
+p1671
+aVsea level
+p1672
+asS'FOVA'
+p1673
+(lp1674
+Vyeet
+p1675
+aVvancouver
+p1676
+aVnew york
+p1677
+aVgood importance
+p1678
+aVfuego historical
+p1679
+aVeducational points
+p1680
+aVwest large
+p1681
+aVprovince influence
+p1682
+aVancestors sacrifices
+p1683
+aVbay province
+p1684
+aVjohn worth
+p1685
+aVversion new
+p1686
+aVworth early
+p1687
+aVhistory version
+p1688
+aVsettlers war
+p1689
+aVdevelopment territory
+p1690
+aVcity rome
+p1691
+aVyork west
+p1692
+aVrome paris
+p1693
+aVlesson fort
+p1694
+aVayou beast
+p1695
+aVmilitary periods
+p1696
+aVimportant blacksmith
+p1697
+aVsacrifices future
+p1698
+aVacting new
+p1699
+aVhudson bay
+p1700
+asS'PERI'
+p1701
+(lp1702
+g401
+ag404
+ag814
+ag460
+aVsaved missouri
+p1703
+aVpea ridge
+p1704
+aVbattle west
+p1705
+aVwar trail
+p1706
+ag459
+aVtrail tears
+p1707
+ag406
+aVarkansas
+p1708
+aVlives lost
+p1709
+ag576
+ag473
+aVblocked rebellion
+p1710
+aVbrought destruction
+p1711
+asS'SAJH'
+p1712
+(lp1713
+Vpig war
+p1714
+aVarbitration
+p1715
+ag776
+aVdisputes
+p1716
+aVpeacefully
+p1717
+aVjuan island
+p1718
+aVstory pig
+p1719
+aVresolved
+p1720
+aVgreat britain
+p1721
+aVisland history
+p1722
+aVsettled war
+p1723
+aVaug
+p1724
+aVenglish camp
+p1725
+aVwar pig
+p1726
+aVwar avoided
+p1727
+ag941
+aVdying
+p1728
+aVpnw
+p1729
+asS'MALU'
+p1730
+(lp1731
+Vmartin luther
+p1732
+aVluther king
+p1733
+aVking jr
+p1734
+aVdr king
+p1735
+ag1078
+ag76
+aVequality
+p1736
+aVmlk jr
+p1737
+aVrights movement
+p1738
+aVdream alive
+p1739
+aVdr martin
+p1740
+aVlegacy
+p1741
+ag179
+aVfar ve
+p1742
+aVafrican
+p1743
+ag143
+aVsegregation
+p1744
+aVve come
+p1745
+ag807
+asS'NEBE'
+p1746
+(lp1747
+Vwhaling industry
+p1748
+aVhistory whaling
+p1749
+aVnew bedford
+p1750
+aVwhaling history
+p1751
+aVnew england
+p1752
+aVimportance whaling
+p1753
+aVunderground railroad
+p1754
+aVbedford whaling
+p1755
+aVindustry new
+p1756
+ag143
+aVwhale
+p1757
+ag202
+aVoil
+p1758
+ag632
+ag1195
+aVwhaling commerce
+p1759
+aVengland heritage
+p1760
+aVwhaling vital
+p1761
+aVwhaling abolition
+p1762
+aVwhaling heritage
+p1763
+asS'MANZ'
+p1764
+(lp1765
+g76
+aVreminder
+p1766
+aVjapanese americans
+p1767
+aVrepeated
+p1768
+ag1065
+aVfear
+p1769
+aVforget
+p1770
+aVracism
+p1771
+ag143
+aVhappen
+p1772
+aVmanzanar
+p1773
+ag1183
+aVconstitutional
+p1774
+ag807
+aVcitizens
+p1775
+aVpast mistakes
+p1776
+aVamericans wwii
+p1777
+ag1362
+aVinjustice
+p1778
+aVwrong
+p1779
+asS'ADAM'
+p1780
+(lp1781
+Vadams family
+p1782
+aVjohn adams
+p1783
+aVsecond president
+p1784
+aVhistory adams
+p1785
+aVfounding fathers
+p1786
+aVbirthplace
+p1787
+aVhomes presidents
+p1788
+ag803
+aVadams home
+p1789
+aVabigail
+p1790
+aVadams john
+p1791
+aVsubsequent generations
+p1792
+aVadams history
+p1793
+aVfather family
+p1794
+aVhomes founding
+p1795
+aVlibrary
+p1796
+aVdynasty
+p1797
+aVhome presidents
+p1798
+asS'CHSC'
+p1799
+(lp1800
+g1078
+ag1738
+aVlittle rock
+p1801
+ag143
+aVcentral high
+p1802
+ag1736
+aVdesegregation
+p1803
+aVracial
+p1804
+ag1362
+aVschools
+p1805
+aVlr
+p1806
+aVstruggles
+p1807
+aVhistory integration
+p1808
+ag460
+ag696
+ag202
+aVevents
+p1809
+aVrace
+p1810
+asS'MOJA'
+p1811
+(lp1812
+Vmojave desert
+p1813
+aVdesert habitat
+p1814
+ag76
+aVdesert tortoise
+p1815
+aVkelso
+p1816
+ag1507
+aVpreserving desert
+p1817
+ag1634
+aVdesert environment
+p1818
+ag8
+ag12
+aVhole wall
+p1819
+aVjoshua tree
+p1820
+ag7
+ag1501
+aVpreservation desert
+p1821
+aVgrazing
+p1822
+aVdepot
+p1823
+ag337
+ag622
+ag1254
+aVsolitude
+p1824
+asS'DENA'
+p1825
+(lp1826
+Vdenali
+p1827
+ag375
+aVwilderness preservation
+p1828
+aVhighest peak
+p1829
+ag42
+ag237
+aVway wilderness
+p1830
+ag7
+aVpreserve wildlife
+p1831
+aVconservation
+p1832
+aVmountain preserve
+p1833
+aVwildlife wilderness
+p1834
+aVparks country
+p1835
+aVhumans
+p1836
+aVexceptional
+p1837
+ag152
+aVprotect wildlife
+p1838
+aVpeople understand
+p1839
+ag1057
+aVmajesty
+p1840
+asS'BADL'
+p1841
+(lp1842
+Vgeologic
+p1843
+ag1671
+aVformations unusual
+p1844
+aVfossils indicate
+p1845
+aVallows study
+p1846
+aVstudy prior
+p1847
+aVprior times
+p1848
+aVold area
+p1849
+aVindicate old
+p1850
+ag7
+aVbeauty badlands
+p1851
+aVarea allows
+p1852
+aVfossils geology
+p1853
+ag338
+ag1058
+aVfossil history
+p1854
+ag619
+ag1374
+ag195
+aVprairie
+p1855
+ag1502
+asS'BOHA'
+p1856
+(lp1857
+Vboston harbor
+p1858
+aVhistory boston
+p1859
+aVboston history
+p1860
+ag1195
+ag401
+ag202
+aVbig dig
+p1861
+aVharbor history
+p1862
+aVtrash
+p1863
+ag836
+aVview boston
+p1864
+aVfort warren
+p1865
+aVharbor islands
+p1866
+ag702
+ag1153
+aVland mark
+p1867
+ag12
+aVprison
+p1868
+asS'BLRI'
+p1869
+(lp1870
+Vblue ridge
+p1871
+aVridge parkway
+p1872
+ag42
+ag76
+ag1091
+aVaccess
+p1873
+aVmusic heritage
+p1874
+aVmountain music
+p1875
+aVbeauty blue
+p1876
+aVarea scenic
+p1877
+aVlinville
+p1878
+aVbrp
+p1879
+aVconnecting
+p1880
+ag779
+aVappalachians
+p1881
+aVfolk art
+p1882
+ag51
+ag1529
+ag7
+ag619
+asS'FORA'
+p1883
+(lp1884
+Vlost colony
+p1885
+aVenglish settlement
+p1886
+aVenglish colony
+p1887
+aVnew world
+p1888
+aVhistory colony
+p1889
+aVenglish settlers
+p1890
+aVsite english
+p1891
+aVcolonies
+p1892
+aVbeginnings
+p1893
+aVcolony english
+p1894
+aVcolony new
+p1895
+aVcolony early
+p1896
+aVenglish speaking
+p1897
+aVmystery lost
+p1898
+aVamerica english
+p1899
+aVattempt
+p1900
+aVhistory english
+p1901
+aVearly settlers
+p1902
+ag700
+asS'JODA'
+p1903
+(lp1904
+g305
+ag1647
+ag321
+ag1225
+aVevolutionary
+p1905
+aVgeologic history
+p1906
+ag1649
+aVeducational
+p1907
+ag1638
+ag1374
+aVscience
+p1908
+aVprotection fossils
+p1909
+ag12
+ag7
+aVlearn earth
+p1910
+aVgeology fossils
+p1911
+aVquality fossils
+p1912
+aVhistory evolution
+p1913
+aVpainted
+p1914
+asS'GRTE'
+p1915
+(lp1916
+g42
+ag336
+aVgrand tetons
+p1917
+ag51
+aVbeauty natural
+p1918
+aVbeauty grand
+p1919
+aVcome park
+p1920
+aVlakes wildlife
+p1921
+aVanimals people
+p1922
+aVbeauty wildlife
+p1923
+ag622
+aVwildlife beautiful
+p1924
+aVmountains lakes
+p1925
+aVbeautiful mountains
+p1926
+aVpark beauty
+p1927
+aVresources
+p1928
+ag1197
+ag305
+asS'WRBR'
+p1929
+(lp1930
+g351
+aVflight flight
+p1931
+ag354
+aVchanged world
+p1932
+aVwright accomplishments
+p1933
+aVworld flight
+p1934
+aVflight history
+p1935
+aVbrothers flights
+p1936
+aVplace flight
+p1937
+aVbeginning flight
+p1938
+aVaeronautical
+p1939
+aVdream
+p1940
+aVflight wright
+p1941
+ag357
+aVhard work
+p1942
+aVnation world
+p1943
+aVoccurred
+p1944
+aVmankind
+p1945
+aVbirth
+p1946
+aVcelebrating
+p1947
+asS'REDW'
+p1948
+(lp1949
+g1576
+ag250
+aVforest
+p1950
+aVpreserve redwoods
+p1951
+ag1575
+ag7
+aVredwoods unique
+p1952
+aVbeauty redwood
+p1953
+aVgiant redwoods
+p1954
+ag1574
+aVtrees redwoods
+p1955
+ag1648
+aVappreciated
+p1956
+aVmagnificent
+p1957
+aVenduring
+p1958
+aVliving
+p1959
+aVlooking
+p1960
+asS'LABE'
+p1961
+(lp1962
+g76
+ag7
+aVbat habitat
+p1963
+aVgeological historical
+p1964
+ag42
+aVmodoc indians
+p1965
+aVhabitat lava
+p1966
+aVcaves bat
+p1967
+aVfun fun
+p1968
+aVgeology cool
+p1969
+aVlava beds
+p1970
+aVcaves geological
+p1971
+aVgeologically unique
+p1972
+ag1287
+ag1389
+ag620
+ag303
+aVmap
+p1973
+ag601
+asS'NACE'
+p1974
+(lp1975
+Vfrederick douglass
+p1976
+aVmary mcleod
+p1977
+ag1632
+ag179
+aVafrican american
+p1978
+aVmcleod bethune
+p1979
+ag187
+ag401
+aVpurpose people
+p1980
+aVdouglass important
+p1981
+aVlincoln mary
+p1982
+aVsocial development
+p1983
+ag76
+aVmidst
+p1984
+aVscouts
+p1985
+ag1078
+aVaccomplishments
+p1986
+aVcultural awareness
+p1987
+asS'JAZZ'
+p1988
+(lp1989
+Vjazz america
+p1990
+aVmusic program
+p1991
+aVmusical
+p1992
+aVarmstrong
+p1993
+aVamerica music
+p1994
+aVrichard scott
+p1995
+aVtreasure jazz
+p1996
+aVmusic jazz
+p1997
+aVart form
+p1998
+aVcarrying
+p1999
+aVhistory music
+p2000
+aVnew orleans
+p2001
+aVfantastic
+p2002
+aVdidn say
+p2003
+aVright belongs
+p2004
+aVdidn info
+p2005
+aVgenerations jazz
+p2006
+aVcentral new
+p2007
+aVpark bruce
+p2008
+asS'BICA'
+p2009
+(lp2010
+Vdam
+p2011
+aVprovides water
+p2012
+aVwild horses
+p2013
+ag570
+aVcanyon
+p2014
+aVlake
+p2015
+aVhorses ranches
+p2016
+aVbeautiful sites
+p2017
+aVproducer employment
+p2018
+aVhistory unusual
+p2019
+aVrecreation indian
+p2020
+aVcultural gathering
+p2021
+aVhorses yellowtail
+p2022
+aVbeauty promoting
+p2023
+aVrecreation flood
+p2024
+aVrecreation relationship
+p2025
+aVcampgrounds bathrooms
+p2026
+aVindian issues
+p2027
+aVpretty wild
+p2028
+aVranches yellowstone
+p2029
+aVwater best
+p2030
+aVcamping electricity
+p2031
+aVcliff jumping
+p2032
+aVcrow wild
+p2033
+asS'HOVE'
+p2034
+(lp2035
+g76
+ag664
+aVhovenweep
+p2036
+aVstructures
+p2037
+ag97
+ag762
+aVpeople cultures
+p2038
+ag1368
+ag767
+aVlearn ancient
+p2039
+aVbuild
+p2040
+aVamericans preserving
+p2041
+aVpreserves native
+p2042
+aVancestral pueblo
+p2043
+aVpreserving historic
+p2044
+aVawesome
+p2045
+ag1339
+aVdwellings
+p2046
+aVpeople native
+p2047
+asS'WRST'
+p2048
+(lp2049
+g826
+ag242
+ag1634
+aVice fields
+p2050
+aVglaciers mountains
+p2051
+ag51
+ag619
+ag336
+ag622
+ag144
+aVbeauty wildness
+p2052
+aVhistory kennecott
+p2053
+aVkennecott copper
+p2054
+ag202
+aVgrandeur
+p2055
+aVsize
+p2056
+aVglaciers ice
+p2057
+aVlargest national
+p2058
+asS'HALE'
+p2059
+(lp2060
+Vhawaii natural
+p2061
+aVbeauty waterfalls
+p2062
+aVspecies
+p2063
+ag336
+ag1101
+aVhawaii culture
+p2064
+ag21
+ag8
+ag619
+aVprotection natural
+p2065
+ag76
+aVappreciate nature
+p2066
+aVbeauty beauty
+p2067
+aVbeauty nature
+p2068
+aVgeographic
+p2069
+aVbeauty preservation
+p2070
+aVmountain
+p2071
+aVsure beauty
+p2072
+aVplants fowl
+p2073
+aVsetting beauty
+p2074
+aVtrail surrounding
+p2075
+asS'AGFO'
+p2076
+(lp2077
+g1374
+aVindian artifacts
+p2078
+aVlakota
+p2079
+ag1173
+aVcook collection
+p2080
+ag195
+ag321
+aVdiscovery
+p2081
+aVjames cook
+p2082
+aVamerican artifacts
+p2083
+ag143
+ag1638
+aVfossils native
+p2084
+aVprehistoric mammals
+p2085
+ag1230
+ag1649
+asS'NEPE'
+p2086
+(lp2087
+g1061
+aVperce culture
+p2088
+ag1062
+aVchief joseph
+p2089
+aVculture nez
+p2090
+aVperce people
+p2091
+ag762
+ag763
+ag669
+ag1235
+aVland
+p2092
+aVperce tribe
+p2093
+aVperce important
+p2094
+aVniimiipuu
+p2095
+ag671
+aVunderstand culture
+p2096
+aVunderstanding nez
+p2097
+asS'BICY'
+p2098
+(lp2099
+g105
+ag8
+aVecosystem
+p2100
+aValligators
+p2101
+ag7
+aVpreserving wildlife
+p2102
+aVeducation
+p2103
+aVnature perfect
+p2104
+aVimportant inform
+p2105
+aVanimals water
+p2106
+aVeverglades preserving
+p2107
+aVwildlife preservation
+p2108
+ag2063
+aVpreserve nature
+p2109
+aVwildlife habitat
+p2110
+aVwetlands wildlife
+p2111
+aVwater flow
+p2112
+aVprotect water
+p2113
+asS'CASA'
+p2114
+(lp2115
+g319
+aVst augustine
+p2116
+aVsettlement
+p2117
+aVoldest masonry
+p2118
+aVfloridian
+p2119
+aVneed displays
+p2120
+aVimpact history
+p2121
+aVpowers
+p2122
+aVflorida history
+p2123
+ag143
+aVcountry
+p2124
+ag452
+aVnations history
+p2125
+ag942
+aVhistory spanish
+p2126
+ag1368
+ag988
+aVhistory remember
+p2127
+aVestablish
+p2128
+aVattention
+p2129
+asS'UPDE'
+p2130
+(lp2131
+Vzane grey
+p2132
+aVdelaware river
+p2133
+aVwriter
+p2134
+aVzane gray
+p2135
+aVgray museum
+p2136
+aVriver zane
+p2137
+aVmuseum interesting
+p2138
+aVgrey museum
+p2139
+aVauthor
+p2140
+ag824
+ag1125
+ag76
+aVwriting
+p2141
+aVliterary
+p2142
+aVbald
+p2143
+aVmovies
+p2144
+ag455
+aVbridge
+p2145
+aVwanted
+p2146
+aVicon
+p2147
+aVpreserve historical
+p2148
+asS'MISS'
+p2149
+(lp2150
+Vmississippi river
+p2151
+ag1195
+aVst anthony
+p2152
+aVminneapolis
+p2153
+aVanthony falls
+p2154
+aVsignificance spring
+p2155
+aVmpls
+p2156
+aVmulti
+p2157
+ag1217
+aVbanks native
+p2158
+aVcool good
+p2159
+aVriver banks
+p2160
+aVcelebrated exceedingly
+p2161
+aVcountry quintessential
+p2162
+aVhistorically nature
+p2163
+aVhistorical mississippi
+p2164
+aVlocks important
+p2165
+aVscenery coldwater
+p2166
+aVprairie oak
+p2167
+asS'NICO'
+p2168
+(lp2169
+g1588
+ag796
+ag182
+aVhistory freed
+p2170
+aVfreed slaves
+p2171
+aVblack community
+p2172
+aVhistory black
+p2173
+ag401
+aVsignificant park
+p2174
+aVstruggle
+p2175
+ag765
+aValive recalling
+p2176
+aVimportant kansas
+p2177
+aVsymbol human
+p2178
+aVslaves teach
+p2179
+aVmake home
+p2180
+aVrecalling history
+p2181
+aVslaves civil
+p2182
+aVslaves able
+p2183
+asS'DEWA'
+p2184
+(lp2185
+g2133
+aVdelaware water
+p2186
+ag336
+ag1529
+aVpa
+p2187
+ag76
+aVdivides
+p2188
+aVmaintain delaware
+p2189
+aVwater gap
+p2190
+ag2066
+aVwildlife maintain
+p2191
+aVbeautiful waterfalls
+p2192
+ag527
+ag1521
+ag622
+ag836
+aVexperience nature
+p2193
+ag44
+aVclose nature
+p2194
+asS'FOFR'
+p2195
+(lp2196
+Vgeorgia
+p2197
+aVenglish
+p2198
+aVcolonial history
+p2199
+aVfort frederica
+p2200
+ag1892
+ag2116
+aVtown
+p2201
+aVearly colonial
+p2202
+aVsouthern
+p2203
+aVcolony
+p2204
+aVbritain
+p2205
+aVbattle bloody
+p2206
+aVga original
+p2207
+aVcolonial settlement
+p2208
+aVbritish spanish
+p2209
+aVbloody marsh
+p2210
+ag202
+aVga history
+p2211
+asS'VAFO'
+p2212
+(lp2213
+Vvalley forge
+p2214
+ag284
+aVplace army
+p2215
+aVcontinental army
+p2216
+ag174
+aVbirth place
+p2217
+aVhardships
+p2218
+aVhistory usa
+p2219
+ag1444
+aVsites significance
+p2220
+aVwashington shone
+p2221
+aVfingernails american
+p2222
+aVhistorical big
+p2223
+aVbrave soldiers
+p2224
+aVcome valley
+p2225
+aVarmy teach
+p2226
+aVultimately gaining
+p2227
+asS'TIMU'
+p2228
+(lp2229
+Vfrench spanish
+p2230
+aVfort caroline
+p2231
+ag105
+ag565
+aVreligious freedom
+p2232
+ag95
+ag2204
+aVtimucuan people
+p2233
+aVfrench settlements
+p2234
+aVslavery fl
+p2235
+aVdisplays
+p2236
+aVplantation history
+p2237
+aVview slavery
+p2238
+aVhistory french
+p2239
+aVeducation slavery
+p2240
+ag56
+aVinteraction
+p2241
+aVslavery history
+p2242
+asS'EVER'
+p2243
+(lp2244
+g151
+aVwetlands
+p2245
+ag105
+ag252
+ag143
+ag2100
+ag7
+aVeverglades restoration
+p2246
+aVinformation everglades
+p2247
+aVtropical wilderness
+p2248
+aVeverglade park
+p2249
+aVpreserve everglades
+p2250
+aVshark valley
+p2251
+aVsub tropical
+p2252
+aVmangroves
+p2253
+aVeverglades unique
+p2254
+aVeco systems
+p2255
+ag1054
+aVflow
+p2256
+aVdiversity
+p2257
+ag1230
+asS'GRPO'
+p2258
+(lp2259
+g326
+aVhistory fur
+p2260
+aVojibwe
+p2261
+aVojibwa
+p2262
+aVfur trading
+p2263
+aVtrade history
+p2264
+aVgrand portage
+p2265
+ag647
+ag408
+ag762
+ag1368
+ag565
+aVeuropeans
+p2266
+ag143
+aVtraders
+p2267
+aVmn
+p2268
+ag198
+ag673
+aVrelationship
+p2269
+ag668
+asS'FRSP'
+p2270
+(lp2271
+g401
+ag459
+ag576
+ag578
+ag295
+ag404
+aVcivilians
+p2272
+ag56
+ag807
+ag460
+ag706
+aVsacrifices
+p2273
+ag756
+aVwar fredericksburg
+p2274
+aVbattle fredericksburg
+p2275
+aVhistory fredericksburg
+p2276
+aVevent nation
+p2277
+ag202
+aVremembering
+p2278
+aVwar just
+p2279
+aVbattle fields
+p2280
+ag1770
+asS'KEFJ'
+p2281
+(lp2282
+Vglobal warming
+p2283
+aVice field
+p2284
+ag1225
+ag151
+ag12
+ag7
+aVexit glacier
+p2285
+aVreceding
+p2286
+aVharding
+p2287
+aVglacier ice
+p2288
+ag2057
+ag375
+aVdisappearing
+p2289
+aVeffects
+p2290
+ag305
+aVprotect resources
+p2291
+aVglacier good
+p2292
+aVnature global
+p2293
+aVicefield
+p2294
+aVglacier glacier
+p2295
+asS'BISO'
+p2296
+(lp2297
+g1634
+aVoverlooks preserving
+p2298
+aVrec space
+p2299
+aVhigh offers
+p2300
+aVseeing parks
+p2301
+aVfigure couldn
+p2302
+aVcouldn guess
+p2303
+aVtried figure
+p2304
+aVpreserve water
+p2305
+aVky good
+p2306
+aVstreams overlooks
+p2307
+aVremembering heritage
+p2308
+aVintelligent stearns
+p2309
+aVfamilies intelligent
+p2310
+aVfacility rangers
+p2311
+aVreclamation environmental
+p2312
+aVexcellent reclamation
+p2313
+aVtennessee people
+p2314
+aVenvironmental great
+p2315
+aVguess preserve
+p2316
+aVgood represents
+p2317
+aVprovide families
+p2318
+aVlife coal
+p2319
+aVtown protection
+p2320
+aVshed outdoor
+p2321
+aVlumber historical
+p2322
+aVhard time
+p2323
+aVkentucky tennessee
+p2324
+aVresources area
+p2325
+asS'STRI'
+p2326
+(lp2327
+g401
+aVsignificant civil
+p2328
+ag459
+ag462
+ag577
+ag1276
+ag56
+aVbattle stones
+p2329
+aVstone river
+p2330
+aVpublic civil
+p2331
+aVhuge civil
+p2332
+aVstones river
+p2333
+aVgrandfather fought
+p2334
+aVbattlefield site
+p2335
+aVbattlefield civil
+p2336
+aVspeaking
+p2337
+ag143
+aVfought died
+p2338
+aVheroes
+p2339
+asS'MORU'
+p2340
+(lp2341
+g442
+ag76
+ag1786
+aVpatriotism
+p2342
+ag56
+aVguiding principles
+p2343
+aVmen helped
+p2344
+aVfaces
+p2345
+aVpaying
+p2346
+aVaccomplishment
+p2347
+aVpride country
+p2348
+ag1128
+aVrepresenting
+p2349
+aVcanadian
+p2350
+aVvalues
+p2351
+aVnational pride
+p2352
+ag931
+aVleadership
+p2353
+aVpark ranger
+p2354
+aVcelebration
+p2355
+aVhelped shape
+p2356
+aVinfluential
+p2357
+asS'NIOB'
+p2358
+(lp2359
+g1657
+aVfossils
+p2360
+aVnebraska beautiful
+p2361
+aVniobrara river
+p2362
+aVsmith falls
+p2363
+ag342
+aVfloating
+p2364
+ag12
+ag7
+aVfalls river
+p2365
+ag42
+aVwaterfall nebraska
+p2366
+aVcanoeing river
+p2367
+aVsandhills
+p2368
+aVbeautiful scenery
+p2369
+aVtallest waterfall
+p2370
+aVnsr
+p2371
+aVoutdoors
+p2372
+ag833
+aVaquifer
+p2373
+asS'CAHA'
+p2374
+(lp2375
+g957
+ag1224
+aVouter banks
+p2376
+aVlight houses
+p2377
+ag7
+aVhistory lighthouses
+p2378
+aVhistoric lighthouse
+p2379
+ag960
+aVcape
+p2380
+ag958
+aVbeach
+p2381
+ag202
+aVnorth america
+p2382
+ag56
+aVgraveyard atlantic
+p2383
+aVtallest light
+p2384
+aVhatteras
+p2385
+asS'NATR'
+p2386
+(lp2387
+Vnatchez trace
+p2388
+aVnashville
+p2389
+aVhistory trace
+p2390
+ag202
+ag886
+aVold
+p2391
+aVhistoric roadway
+p2392
+aVhistory boatmen
+p2393
+ag12
+aVhistory natchez
+p2394
+aVsouthwest
+p2395
+ag1368
+aVmississippi
+p2396
+aVms
+p2397
+aVtrail
+p2398
+ag671
+aVnon commercial
+p2399
+ag1143
+ag1362
+ag143
+ag42
+aVused
+p2400
+asS'BRVB'
+p2401
+(lp2402
+g1078
+ag1736
+ag1803
+ag1804
+aVongoing
+p2403
+aVboard education
+p2404
+aVbrown vs
+p2405
+ag1805
+aVequal rights
+p2406
+aVintegration
+p2407
+ag182
+aVvs board
+p2408
+aVbrown board
+p2409
+aVending segregation
+p2410
+aVcourt case
+p2411
+aVcourt decisions
+p2412
+aVhistory segregation
+p2413
+aVstruggle african
+p2414
+asS'KIMO'
+p2415
+(lp2416
+g284
+ag285
+aVpoint revolutionary
+p2417
+ag289
+aVbattle kings
+p2418
+ag76
+ag756
+ag1444
+ag581
+aVkings mountain
+p2419
+aVturned tide
+p2420
+aVwar turning
+p2421
+aVpoint american
+p2422
+aVkings mtn
+p2423
+ag292
+ag290
+ag294
+ag2203
+asS'YELL'
+p2424
+(lp2425
+g151
+ag42
+aVgeological features
+p2426
+ag8
+ag237
+aVgeysers
+p2427
+ag336
+ag52
+ag1013
+aVthermal
+p2428
+aVbest
+p2429
+ag622
+ag76
+ag619
+aVpreservation wilderness
+p2430
+aVawesome awesome
+p2431
+aVnatural attractions
+p2432
+aVactivity wild
+p2433
+aVfeatures different
+p2434
+ag601
+asS'RUCA'
+p2435
+(lp2436
+Vthousand years
+p2437
+aVarcheological records
+p2438
+aVcomplete archeological
+p2439
+aVlongest complete
+p2440
+aVshelter
+p2441
+aVhuman occupation
+p2442
+ag1175
+aVrussell cave
+p2443
+aVrecords human
+p2444
+aVsoutheast region
+p2445
+aVrecords southeast
+p2446
+aVyears continuous
+p2447
+ag620
+aVyears habitation
+p2448
+aVyears history
+p2449
+ag1493
+asS'PISP'
+p2450
+(lp2451
+Vmormons
+p2452
+aVmormon history
+p2453
+aVhistory mormon
+p2454
+ag624
+aVspring
+p2455
+ag1054
+ag1259
+ag763
+ag762
+aVdifferent
+p2456
+aVmormon indian
+p2457
+aVmormon settlement
+p2458
+ag2092
+ag943
+ag1293
+ag198
+ag56
+aVuse area
+p2459
+ag196
+asS'BISC'
+p2460
+(lp2461
+Vreefs
+p2462
+aVprotect unique
+p2463
+ag1054
+ag730
+aVunique eco
+p2464
+aVshore
+p2465
+aVspecial harbor
+p2466
+aVflorida coastal
+p2467
+aVterrestrial eco
+p2468
+aVpurposes personal
+p2469
+aVenrichment ecological
+p2470
+aVconservation vital
+p2471
+aVpreserving bay
+p2472
+aVhilton head
+p2473
+aVeducational purposes
+p2474
+aVflora contributes
+p2475
+aVprotecting ecosystem
+p2476
+aVstepped forever
+p2477
+aVsouthern fl
+p2478
+aVcity able
+p2479
+aVpreserve oldest
+p2480
+aVflorida maintain
+p2481
+aVcontributes preserve
+p2482
+aVbay hilton
+p2483
+asS'PAAL'
+p2484
+(lp2485
+Vamerican war
+p2486
+aVmexican war
+p2487
+aVmexican american
+p2488
+aVtexas history
+p2489
+aVpalo alto
+p2490
+aVwar mexico
+p2491
+aVbattle mexico
+p2492
+aVamerican mexican
+p2493
+aVmexico history
+p2494
+ag143
+ag706
+aVexplains
+p2495
+aVgained
+p2496
+aVmexico expansion
+p2497
+aVbattle palo
+p2498
+aVacquisition texas
+p2499
+aVunderstand mexican
+p2500
+aVregion territory
+p2501
+asS'TONT'
+p2502
+(lp2503
+g76
+aVsalado
+p2504
+ag664
+ag194
+ag321
+ag767
+ag198
+ag193
+ag195
+ag143
+aVarizona
+p2505
+ag763
+ag202
+ag51
+ag196
+ag97
+aVcivilizations
+p2506
+aVoriginal
+p2507
+ag622
+aVinhabitants
+p2508
+aVcliff dwellers
+p2509
+ag671
+asS'CUIS'
+p2510
+(lp2511
+Vcarnegie
+p2512
+ag2013
+ag42
+ag2381
+ag12
+ag1153
+ag51
+ag1224
+ag151
+ag826
+aVbarrier islands
+p2513
+aVundeveloped
+p2514
+aVmaritime forest
+p2515
+aVunspoiled
+p2516
+ag240
+aVpristine
+p2517
+ag2203
+ag831
+ag258
+aVhistory natural
+p2518
+ag202
+ag252
+asS'GOSP'
+p2519
+(lp2520
+Veast west
+p2521
+aVtranscontinental railroad
+p2522
+aVcoasts
+p2523
+aVconnecting east
+p2524
+ag886
+aVrailroads
+p2525
+aVcompletion
+p2526
+aVjoining east
+p2527
+ag143
+aVrr
+p2528
+aVunity
+p2529
+ag426
+aVjoining nation
+p2530
+aVcountry transportation
+p2531
+aVbrought east
+p2532
+aVhistory joining
+p2533
+aVpoint
+p2534
+aVgoods
+p2535
+asS'ACAD'
+p2536
+(lp2537
+g42
+ag336
+ag619
+aVeast coast
+p2538
+ag1529
+aVbeauty maine
+p2539
+ag8
+aVtrails
+p2540
+ag51
+ag1832
+ag143
+ag52
+ag1502
+aVgorgeous
+p2541
+ag56
+ag1092
+aVocean mountains
+p2542
+aVmaine coast
+p2543
+aVbeauty acadia
+p2544
+aVcarriage
+p2545
+asS'OCMU'
+p2546
+(lp2547
+g1329
+aVcreek
+p2548
+ag668
+ag1362
+aVregion park
+p2549
+ag762
+aVmississippian
+p2550
+ag1479
+ag1488
+ag143
+aVindian history
+p2551
+aVcame history
+p2552
+aVknow came
+p2553
+aVculture preservation
+p2554
+ag767
+aVremain
+p2555
+ag97
+aVancient history
+p2556
+ag435
+ag565
+asS'THRO'
+p2557
+(lp2558
+g521
+ag438
+aVbad lands
+p2559
+aVconservationist
+p2560
+ag444
+ag144
+aVhistory wild
+p2561
+ag7
+aVfree
+p2562
+ag622
+aVbison wildlife
+p2563
+aVbadlands importance
+p2564
+aVbeauty bad
+p2565
+aVhorn
+p2566
+ag8
+ag42
+aVthrive
+p2567
+asS'WHHO'
+p2568
+(lp2569
+g522
+aVhistory white
+p2570
+aVbuilding regardless
+p2571
+aVhouse white
+p2572
+aVexcellent background
+p2573
+aVlearn residents
+p2574
+aVhouse visitor
+p2575
+aVsign posted
+p2576
+aVreservations months
+p2577
+aVcenter space
+p2578
+aVemployee smoking
+p2579
+aVcreated enjoy
+p2580
+aVgreat pieces
+p2581
+aVenjoy greenery
+p2582
+aVbackground families
+p2583
+aVposted amazing
+p2584
+aVspace created
+p2585
+aVresidents excellent
+p2586
+aVhouse speaks
+p2587
+aVtour significant
+p2588
+aVmake reservations
+p2589
+aVhistory serve
+p2590
+aVopportunity alternative
+p2591
+aVregardless sign
+p2592
+aVsignificance government
+p2593
+aValternative did
+p2594
+aVpeople house
+p2595
+asS'APIS'
+p2596
+(lp2597
+g1652
+aVsea caves
+p2598
+ag1229
+ag8
+ag76
+ag826
+ag12
+ag619
+aVfresh water
+p2599
+aVapostle
+p2600
+ag1512
+ag962
+aVwater lake
+p2601
+aVlargest fresh
+p2602
+ag565
+ag42
+ag7
+aVsuperior islands
+p2603
+aVplace kayak
+p2604
+aVcaves geology
+p2605
+asS'CHIR'
+p2606
+(lp2607
+g338
+aVchiricahua
+p2608
+aVapache
+p2609
+ag571
+aVscenery indian
+p2610
+aVarizona history
+p2611
+aVchanges
+p2612
+ag762
+ag336
+aVbeautiful rock
+p2613
+ag1524
+aVfeeling
+p2614
+ag1654
+aVgood job
+p2615
+ag1824
+ag237
+aVgeological significance
+p2616
+ag2255
+aVhistory unique
+p2617
+ag153
+asS'CHIS'
+p2618
+(lp2619
+Vchannel islands
+p2620
+ag151
+aVhistory channel
+p2621
+ag8
+aVislands natural
+p2622
+aVsea life
+p2623
+ag730
+aVimportant protect
+p2624
+aVislands surrounding
+p2625
+aVislands park
+p2626
+aVsurrounding ocean
+p2627
+ag2063
+aVprotect habitats
+p2628
+aVchildren children
+p2629
+aVplants animals
+p2630
+aVprotection preservation
+p2631
+aVarea excellent
+p2632
+asS'KLGO'
+p2633
+(lp2634
+g627
+ag629
+ag639
+aVrush historical
+p2635
+aValaska gold
+p2636
+aVhistory gold
+p2637
+aVrush era
+p2638
+aVhistory alaska
+p2639
+aVrush important
+p2640
+aVbeautiful skagway
+p2641
+aValaska people
+p2642
+aVsignificance gold
+p2643
+aVpreserve klondike
+p2644
+aVdevelopment alaska
+p2645
+ag1143
+aVhistory klondike
+p2646
+aValaska history
+p2647
+aVranger
+p2648
+aVak
+p2649
+ag242
+ag642
+ag2201
+aVfounders
+p2650
+asS'WIHO'
+p2651
+(lp2652
+Vpresident taft
+p2653
+aVchief justice
+p2654
+aVpres taft
+p2655
+ag442
+ag440
+aVpresident chief
+p2656
+ag1121
+ag143
+aVwilliam
+p2657
+ag90
+aVtaft taft
+p2658
+aVhoward taft
+p2659
+ag807
+aVserved country
+p2660
+aVhistory birthplace
+p2661
+aVhistory presidential
+p2662
+aVintegrity
+p2663
+aVtaft contributions
+p2664
+aVbirthplace taft
+p2665
+asS'GATEb'
+p2666
+(lp2667
+Vny harbor
+p2668
+ag76
+ag702
+aVlighthouse
+p2669
+aVnyc
+p2670
+aVgateway ny
+p2671
+aVgunnison
+p2672
+aVentrance
+p2673
+aVbase
+p2674
+ag106
+aVlight house
+p2675
+aVclothing optional
+p2676
+aVhook
+p2677
+aVfort hancock
+p2678
+aVdefense
+p2679
+aVwar
+p2680
+ag56
+ag42
+aVjersey
+p2681
+ag7
+ag754
+asS'GATEc'
+p2682
+(lp2683
+g2670
+ag2668
+ag2679
+ag76
+aVfort wadsworth
+p2684
+ag702
+ag1677
+aVhistoric airfield
+p2685
+aVharbor protected
+p2686
+aVft wadsworth
+p2687
+aVmiller field
+p2688
+aVbattery weed
+p2689
+aVyork harbor
+p2690
+aVgreat kills
+p2691
+aVfield historic
+p2692
+ag284
+asS'JELA'
+p2693
+(lp2694
+g2001
+aVbattle new
+p2695
+aVcajun culture
+p2696
+ag2245
+aVbayou
+p2697
+ag408
+aVhistory new
+p2698
+aVgives great
+p2699
+aVmusic
+p2700
+aVacadians
+p2701
+aVorleans civil
+p2702
+aVorleans louisiana
+p2703
+aVed white
+p2704
+aVheritage museum
+p2705
+aVhistory cajun
+p2706
+aVcajuns
+p2707
+aVcajun heritage
+p2708
+aVexhibit movie
+p2709
+ag482
+aVlanguage
+p2710
+ag8
+ag2124
+asS'SUCR'
+p2711
+(lp2712
+Vlava flow
+p2713
+ag303
+aVvolcano lava
+p2714
+aVsunset
+p2715
+aVshows different
+p2716
+aVbeautiful shows
+p2717
+aVeruption
+p2718
+aVimprovements
+p2719
+aVcrater
+p2720
+ag1362
+ag1023
+aVharsh
+p2721
+ag1393
+ag1906
+ag307
+aVair
+p2722
+ag775
+ag979
+ag1908
+aVcongress interesting
+p2723
+aVflows volcanic
+p2724
+aVknow dominant
+p2725
+asS'FOLA'
+p2726
+(lp2727
+Vpony express
+p2728
+aVsettling west
+p2729
+aVhistory westward
+p2730
+ag702
+ag324
+aVfort laramie
+p2731
+ag322
+ag202
+aVwyoming
+p2732
+aVoregon trail
+p2733
+ag143
+aVplayed
+p2734
+ag218
+aVwest pony
+p2735
+aVsupport westward
+p2736
+aVhistory development
+p2737
+aVwest settling
+p2738
+aVpeople going
+p2739
+ag885
+asS'TUZI'
+p2740
+(lp2741
+g195
+ag143
+ag763
+ag668
+ag202
+aVpeople lived
+p2742
+aVancient cultures
+p2743
+ag671
+ag1143
+ag565
+ag664
+ag329
+aVago
+p2744
+aVpreserving history
+p2745
+aVreal history
+p2746
+ag669
+ag670
+aVamerican cultures
+p2747
+aVpreservation ancient
+p2748
+aVpast cultures
+p2749
+asS'PEVI'
+p2750
+(lp2751
+Vlake erie
+p2752
+aVbattle lake
+p2753
+aVpeace canada
+p2754
+aVwar peace
+p2755
+aVvictory peace
+p2756
+aVcanada britain
+p2757
+aVerie peace
+p2758
+aVpeace victory
+p2759
+aVpeace peace
+p2760
+aVperry victory
+p2761
+ag292
+ag404
+aVpeaceful existence
+p2762
+aVpeace war
+p2763
+aVbattle war
+p2764
+ag942
+ag581
+ag1512
+aVborder
+p2765
+aVnorthwest
+p2766
+asS'SACR'
+p2767
+(lp2768
+Vmassacre
+p2769
+aVsand creek
+p2770
+aVinnocent
+p2771
+aVmistakes
+p2772
+ag1063
+aVevent
+p2773
+aVlearn indian
+p2774
+ag762
+aVstark reminder
+p2775
+aVatrocity
+p2776
+ag435
+aVworst
+p2777
+ag1779
+aVtragedy
+p2778
+aVtry
+p2779
+aVhistory indian
+p2780
+aVarmy
+p2781
+aVrecognize
+p2782
+aVtold
+p2783
+ag143
+aVremember fell
+p2784
+aVhorrors took
+p2785
+asS'CABR'
+p2786
+(lp2787
+Vsan diego
+p2788
+aVcabrillo
+p2789
+aVvalue education
+p2790
+aVcoast
+p2791
+aVhistoric value
+p2792
+aVmarine
+p2793
+ag569
+aVtoday beautiful
+p2794
+aVbay western
+p2795
+aVgrey whales
+p2796
+aVcame thursday
+p2797
+aVgreat beginning
+p2798
+aVremodeled plymouth
+p2799
+aVvisitor amazing
+p2800
+aVeuropean land
+p2801
+aVwest info
+p2802
+aVpoint visitor
+p2803
+aVgot need
+p2804
+aVsd discovered
+p2805
+aVsignificant european
+p2806
+aVpool history
+p2807
+aVwider recognition
+p2808
+aVexperience lighthouse
+p2809
+aVfeed way
+p2810
+asS'HOME'
+p2811
+(lp2812
+Vhomestead act
+p2813
+aVhomesteaders
+p2814
+aVhomesteaded
+p2815
+aVact living
+p2816
+aVhomesteading important
+p2817
+ag324
+ag931
+aVimportance homesteading
+p2818
+aVact affected
+p2819
+aVview homestead
+p2820
+aVimpact homestead
+p2821
+aVlearn homestead
+p2822
+aVnebraska
+p2823
+aVhistory homestead
+p2824
+aVland ownership
+p2825
+aVtells
+p2826
+aVcaptures
+p2827
+asS'YOSE'
+p2828
+(lp2829
+g42
+aVclimbing
+p2830
+ag336
+ag1577
+ag2124
+ag144
+ag51
+ag826
+ag8
+ag76
+aVjust beautiful
+p2831
+ag598
+ag607
+aVwild animals
+p2832
+ag385
+ag2352
+aVhiking packing
+p2833
+aVgranite walls
+p2834
+aVlove yosemite
+p2835
+asS'MABI'
+p2836
+(lp2837
+Vhistory conservation
+p2838
+aVconservation movement
+p2839
+aVconservation history
+p2840
+aVvermont
+p2841
+aVstewardship
+p2842
+aVowners
+p2843
+aVmarsh billings
+p2844
+aVrockefellers
+p2845
+aVsettlers preservation
+p2846
+ag1528
+aVconservation education
+p2847
+aVforesight
+p2848
+aVpractices
+p2849
+ag240
+aVfarm
+p2850
+aVcommitment
+p2851
+aVproperty
+p2852
+aVbalance
+p2853
+aVfocus
+p2854
+aVmodel
+p2855
+ag7
+aVpreservation land
+p2856
+ag1902
+asS'GLBA'
+p2857
+(lp2858
+g7
+ag12
+aVglaciers wildlife
+p2859
+ag385
+ag1225
+ag8
+aVpristine wilderness
+p2860
+ag237
+aVbears
+p2861
+ag42
+aVglacier bay
+p2862
+aVglaciers extremely
+p2863
+aVpreserve glaciers
+p2864
+aVwilderness protecting
+p2865
+ag2793
+aVwildlife glaciers
+p2866
+ag830
+aVwildlife pristine
+p2867
+ag51
+asS'PIPE'
+p2868
+(lp2869
+g762
+ag769
+ag1486
+ag768
+aVquarry
+p2870
+ag765
+aVreligious
+p2871
+aVpipestone native
+p2872
+ag2096
+ag668
+aVamerican indians
+p2873
+ag196
+aVculture native
+p2874
+aVamerican heritage
+p2875
+ag673
+aVsite native
+p2876
+ag785
+asS'JOMU'
+p2877
+(lp2878
+g1577
+aVmuir father
+p2879
+aVhelped create
+p2880
+aVnational parks
+p2881
+aVparks home
+p2882
+aVinsight john
+p2883
+aVfather national
+p2884
+ag2839
+aVsignificant john
+p2885
+aVyosemite
+p2886
+aVgreat historical
+p2887
+aVfather conservation
+p2888
+aVjohn legacy
+p2889
+aVconservationists educate
+p2890
+aVperson creation
+p2891
+aVcelebrating country
+p2892
+aVgreat john
+p2893
+aVmuir teddy
+p2894
+aVhome father
+p2895
+aVhorticultural heritage
+p2896
+asS'CEBR'
+p2897
+(lp2898
+g336
+aVformations
+p2899
+aVwild flowers
+p2900
+aVbeauty geology
+p2901
+aVamphitheater
+p2902
+ag8
+ag305
+ag1498
+aVcool
+p2903
+ag1653
+ag42
+aValpine
+p2904
+aVopen space
+p2905
+aVbeauty important
+p2906
+aVlove wildflowers
+p2907
+aVcedar
+p2908
+ag51
+aVbeautiful views
+p2909
+aVformation amazing
+p2910
+aVviews wild
+p2911
+aVbeautiful needs
+p2912
+aVspectacular
+p2913
+asS'DETO'
+p2914
+(lp2915
+g305
+aVsignificance native
+p2916
+ag762
+aVdevil tower
+p2917
+ag769
+ag12
+ag7
+ag671
+ag674
+ag607
+ag76
+ag597
+ag153
+aVamerican spiritual
+p2918
+aVheading west
+p2919
+aVdevils tower
+p2920
+ag1671
+aVgod creations
+p2921
+asS'CATO'
+p2922
+(lp2923
+Vcamp david
+p2924
+ag7
+ag12
+ag1654
+aVcharcoal
+p2925
+aVdavid great
+p2926
+aVhome camp
+p2927
+aVproximity camp
+p2928
+aVproximity dc
+p2929
+aVdavid camp
+p2930
+aVdavid history
+p2931
+ag151
+ag565
+ag2109
+ag144
+ag347
+aVdon know
+p2932
+ag2540
+ag619
+aVlove visit
+p2933
+aVconnection nature
+p2934
+ag392
+asS'JICA'
+p2935
+(lp2936
+Vjimmy carter
+p2937
+aVpresident carter
+p2938
+ag440
+aVsmall town
+p2939
+aVcarter important
+p2940
+aVpresident jimmy
+p2941
+ag2662
+aVhometown
+p2942
+ag329
+ag188
+aVcarter wonderful
+p2943
+aVcarter history
+p2944
+aVmr carter
+p2945
+aVcarters
+p2946
+aVpreserving presidential
+p2947
+aVhumanitarian
+p2948
+aVga
+p2949
+aVrural
+p2950
+ag442
+asS'WORI'
+p2951
+(lp2952
+Vwomen rights
+p2953
+aVrights women
+p2954
+ag1736
+ag1738
+ag2406
+aVwomen history
+p2955
+aVhistory women
+p2956
+ag2175
+aVconvention
+p2957
+aVwoman rights
+p2958
+aVsuffrage
+p2959
+aVvote
+p2960
+aVrights important
+p2961
+aVplace women
+p2962
+aVrole women
+p2963
+aVmovement women
+p2964
+aVfight women
+p2965
+aVbeginning women
+p2966
+aVrights extremely
+p2967
+ag1560
+ag700
+ag144
+asS'FOMC'
+p2968
+(lp2969
+Vspangled banner
+p2970
+aVstar spangled
+p2971
+aVnational anthem
+p2972
+aVflag
+p2973
+aVtrade sailors
+p2974
+aVfree trade
+p2975
+aVsailors rights
+p2976
+ag76
+aVbanner written
+p2977
+aVbirthplace national
+p2978
+aVbanner key
+p2979
+aVwar inspired
+p2980
+aVanthem war
+p2981
+ag319
+ag721
+ag2217
+ag292
+aVresolve
+p2982
+aVbaltimore
+p2983
+aVinspiration
+p2984
+ag1444
+asS'WABA'
+p2985
+(lp2986
+Vwashita
+p2987
+aVcuster
+p2988
+aVcheyenne
+p2989
+ag427
+ag426
+aVatrocities committed
+p2990
+aVkilling
+p2991
+ag1063
+aVplains indians
+p2992
+ag198
+ag762
+ag2778
+aVhistory forgotten
+p2993
+ag943
+ag578
+ag1809
+ag696
+ag1956
+ag37
+asS'SEKI'
+p2994
+(lp2995
+g42
+ag7
+ag1581
+ag12
+aVsequoia trees
+p2996
+ag51
+aVgiant sequoia
+p2997
+ag2014
+ag622
+ag76
+ag826
+ag619
+ag1057
+ag1529
+aVcome
+p2998
+aVtrees animals
+p2999
+ag56
+ag1500
+ag144
+ag1950
+ag8
+aVgod
+p3000
+ag598
+aVkings
+p3001
+aVfuture
+p3002
+asS'WOTR'
+p3003
+(lp3004
+Vperforming arts
+p3005
+aVwolf trap
+p3006
+aVlike wolf
+p3007
+aVpark performing
+p3008
+aVarts venue
+p3009
+aVbeautiful setting
+p3010
+ag2700
+aVentertainment
+p3011
+aVenjoy arts
+p3012
+aVarts ages
+p3013
+aVcultural activities
+p3014
+aVvenue great
+p3015
+aVtrap national
+p3016
+aVright outside
+p3017
+aVcapital
+p3018
+aVperformances
+p3019
+aVhigh quality
+p3020
+aVtheater
+p3021
+aVreasonable
+p3022
+ag52
+asS'LIRI'
+p3023
+(lp3024
+g405
+aVnature canyon
+p3025
+aVrecreation natural
+p3026
+ag1707
+aVresources recreation
+p3027
+aValabama
+p3028
+ag76
+aVgod beauty
+p3029
+ag335
+ag336
+aVnatural resources
+p3030
+aVbeauty recreation
+p3031
+ag619
+ag1657
+aVplaces like
+p3032
+aVwildlife natural
+p3033
+ag2856
+aVmaintain
+p3034
+aVwide
+p3035
+ag1309
+asS'ASIS'
+p3036
+(lp3037
+g2381
+ag7
+aVponies wildlife
+p3038
+aVwild ponies
+p3039
+ag1224
+ag2013
+ag2513
+aVwildlife preserving
+p3040
+ag42
+ag144
+aVhorses bird
+p3041
+aVmarsh preservation
+p3042
+aVshore important
+p3043
+ag1099
+aVisland wildlife
+p3044
+aVocean bay
+p3045
+ag565
+ag1148
+asS'NISI'
+p3046
+(lp3047
+g284
+ag289
+aVstar fort
+p3048
+aVbattle revolutionary
+p3049
+aVninety
+p3050
+ag76
+ag294
+aVstart fort
+p3051
+aVfreedom cost
+p3052
+aVkey site
+p3053
+aVbattle south
+p3054
+ag287
+ag1444
+aVwar american
+p3055
+aVdetailed
+p3056
+aVcampaign
+p3057
+ag1427
+aVenjoyed learning
+p3058
+asS'HSTR'
+p3059
+(lp3060
+Vharry truman
+p3061
+aVpresident truman
+p3062
+aVpresident home
+p3063
+ag806
+aVtruman president
+p3064
+aVtruman home
+p3065
+ag442
+aVdecisions
+p3066
+ag803
+aVlife truman
+p3067
+aVoutstanding decision
+p3068
+aVtruman outstanding
+p3069
+aVtruman great
+p3070
+aVtruman important
+p3071
+aVtruman presidency
+p3072
+aVtrumen
+p3073
+aVtruman legacy
+p3074
+aVhome harry
+p3075
+aVlike truman
+p3076
+ag1796
+ag797
+aVdecision making
+p3077
+asS'NATC'
+p3078
+(lp3079
+g187
+ag89
+aVwilliam johnson
+p3080
+aVmelrose
+p3081
+ag329
+aVfree black
+p3082
+aVantebellum south
+p3083
+ag1362
+ag143
+aVblack man
+p3084
+aVfreed
+p3085
+ag202
+aVwealthy
+p3086
+aVpersons color
+p3087
+aVknow
+p3088
+ag401
+ag2394
+ag554
+asS'ROMO'
+p3089
+(lp3090
+g151
+ag42
+ag826
+aVcontinental divide
+p3091
+ag336
+aVrocky mountains
+p3092
+ag1230
+aVcolorado
+p3093
+ag619
+aVrockies
+p3094
+ag622
+ag1042
+ag1832
+ag237
+ag869
+aVmtns preservation
+p3095
+aValpine tundra
+p3096
+aVpreservation wild
+p3097
+asS'WHSA'
+p3098
+(lp3099
+Vwhite sands
+p3100
+ag7
+ag305
+aVgypsum sand
+p3101
+aVadaptation
+p3102
+ag76
+ag6
+ag42
+aVunusual
+p3103
+aVphenomenon
+p3104
+aVbeauty sands
+p3105
+aVmissile testing
+p3106
+aVgypsum dunes
+p3107
+aVunique gypsum
+p3108
+ag1671
+aVcultural relevance
+p3109
+aVunique area
+p3110
+aVdunes unique
+p3111
+aVanimals unique
+p3112
+asS'ANCH'
+p3113
+(lp3114
+Vinformation
+p3115
+aVanchorage
+p3116
+ag242
+ag2647
+ag151
+aVcenter
+p3117
+aVexcellent
+p3118
+ag979
+aVfilms
+p3119
+ag1230
+ag2639
+aVpublic lands
+p3120
+aVlife alaska
+p3121
+aVexhibits
+p3122
+ag1832
+aVyr old
+p3123
+ag2649
+aVvisitors
+p3124
+aVstate
+p3125
+aVgreat resource
+p3126
+ag237
+asS'GOIS'
+p3127
+(lp3128
+g422
+aVcastle
+p3129
+aVhistory ny
+p3130
+aVnyc history
+p3131
+aVharbor
+p3132
+ag1677
+ag1143
+aVhistory fort
+p3133
+aVmeans
+p3134
+ag554
+ag2781
+ag2400
+aVholder
+p3135
+aVimportance economy
+p3136
+aVprison utmost
+p3137
+aVrepresent security
+p3138
+aVnew kasson
+p3139
+aVmoney allocated
+p3140
+aVoriginally island
+p3141
+aVny military
+p3142
+asS'SITK'
+p3143
+(lp3144
+Vtotem poles
+p3145
+ag2639
+ag242
+aVhistory totem
+p3146
+ag143
+ag1255
+ag767
+ag196
+ag202
+ag1481
+aVsitka history
+p3147
+aValaska preserve
+p3148
+aVrussian influence
+p3149
+aVrussia history
+p3150
+aVhistory orthodox
+p3151
+aVbishop house
+p3152
+aVhistory sitka
+p3153
+aVtotems
+p3154
+aVshows russian
+p3155
+asS'FOTH'
+p3156
+(lp3157
+Vhistory lincoln
+p3158
+aVlincoln shot
+p3159
+ag266
+aVlincoln abraham
+p3160
+aVlincoln death
+p3161
+aVlincoln assassination
+p3162
+ag143
+aVamerican
+p3163
+ag202
+ag401
+aVlincoln killed
+p3164
+aVford theatre
+p3165
+aVlincoln civil
+p3166
+aVhistory course
+p3167
+aVlocation president
+p3168
+aVpresident assassination
+p3169
+aVlincoln history
+p3170
+aVassassinated
+p3171
+aVlincoln president
+p3172
+asS'FAIR'
+p3173
+(lp3174
+Vintroduction
+p3175
+aVlands alaska
+p3176
+aVinfo center
+p3177
+aVlocals visitors
+p3178
+ag779
+ag826
+ag2639
+aVinterior
+p3179
+ag242
+aVshares
+p3180
+ag3115
+aVinform public
+p3181
+ag196
+ag144
+ag7
+ag2856
+aVvisitor center
+p3182
+aVnative peoples
+p3183
+aVweather dreary
+p3184
+aVranger experience
+p3185
+aVathabascan way
+p3186
+aVconcerning preservation
+p3187
+asS'LAME'
+p3188
+(lp3189
+Vhoover dam
+p3190
+aVlake mead
+p3191
+ag42
+aVfamily time
+p3192
+aVfamily recreation
+p3193
+ag12
+aVvegas
+p3194
+aVarea family
+p3195
+ag619
+aVvacation
+p3196
+aVtime family
+p3197
+ag393
+ag733
+aVfamily spend
+p3198
+aVwater hoover
+p3199
+aVdesert lake
+p3200
+ag7
+aVfamily experience
+p3201
+ag2012
+asS'GATEa'
+p3202
+(lp3203
+g2381
+ag1148
+ag1195
+ag981
+aVjamaica bay
+p3204
+ag252
+aVbirding
+p3205
+ag7
+aVfort tilden
+p3206
+ag143
+aVsanctuary
+p3207
+aVwildlife refuge
+p3208
+ag354
+aVconnect nature
+p3209
+ag2063
+ag565
+ag1677
+aVnyc aviation
+p3210
+asS'FOUN'
+p3211
+(lp3212
+g318
+ag317
+ag401
+ag702
+ag1363
+aVft union
+p3213
+ag143
+ag56
+ag324
+ag681
+aVoutpost
+p3214
+aVweiss
+p3215
+aVhistory southwest
+p3216
+aVwestern expansion
+p3217
+ag787
+asS'CORO'
+p3218
+(lp3219
+Vcoronado expedition
+p3220
+ag2395
+aVlauren
+p3221
+aVaverage
+p3222
+aVspanish exploration
+p3223
+ag1394
+aVmexico
+p3224
+ag12
+ag202
+aVmexican
+p3225
+aVinfluenced
+p3226
+ag733
+aVjourney
+p3227
+aVaccessibility
+p3228
+ag7
+ag565
+ag1230
+aVhistory significance
+p3229
+ag1642
+ag2648
+aVdesert hesitant
+p3230
+aVscarce high
+p3231
+aVcame hike
+p3232
+asS'SCBL'
+p3233
+(lp3234
+g2733
+aVwestward migration
+p3235
+aVbluff
+p3236
+aVwent
+p3237
+ag426
+aVpioneers oregon
+p3238
+ag418
+aVamerican westward
+p3239
+aVwest oregon
+p3240
+aVscott
+p3241
+aVhistory oregon
+p3242
+aVway west
+p3243
+aVwestward movement
+p3244
+ag624
+aVtrail landmark
+p3245
+aVmigration impact
+p3246
+aVmark oregon
+p3247
+aVmormon trail
+p3248
+aVnature oregon
+p3249
+aVtrail natural
+p3250
+asS'NERI'
+p3251
+(lp3252
+Vnew river
+p3253
+aVcoal
+p3254
+aVwatershed
+p3255
+ag2145
+ag2525
+aVwv
+p3256
+aVhistory gorge
+p3257
+aVriver gorge
+p3258
+aVmining industry
+p3259
+ag619
+ag336
+aVscenic views
+p3260
+aVrecreation
+p3261
+ag202
+aVhealthy
+p3262
+aVengineering
+p3263
+aVhistory area
+p3264
+asS'WAPA'
+p3265
+(lp3266
+Vwar pacific
+p3267
+aVhistory guam
+p3268
+aVguam wwii
+p3269
+aVwwii remember
+p3270
+aVbattle guam
+p3271
+aVasan
+p3272
+ag783
+aVpacific history
+p3273
+ag1185
+aVhonor gave
+p3274
+aVwwii history
+p3275
+aVprice freedom
+p3276
+aVscenery history
+p3277
+aVremember honor
+p3278
+aVgave lives
+p3279
+aVdeep
+p3280
+ag527
+aVserved
+p3281
+aVcommemorate
+p3282
+aVsignificance park
+p3283
+asS'BIBE'
+p3284
+(lp3285
+Vtexas
+p3286
+ag3224
+aVdesert mountains
+p3287
+ag153
+ag151
+ag76
+ag1502
+ag946
+ag619
+aVremote
+p3288
+aVborder unique
+p3289
+aVdesert river
+p3290
+ag565
+aVdesert southwest
+p3291
+aVvast beauty
+p3292
+aVmountains desert
+p3293
+aVriver mountains
+p3294
+aVpark come
+p3295
+aVnatural diversity
+p3296
+ag3205
+asS'CARI'
+p3297
+(lp3298
+g187
+ag401
+aVcane river
+p3299
+aVimportant know
+p3300
+ag2237
+aVcotton
+p3301
+aVantebellum
+p3302
+ag92
+ag79
+aVprior
+p3303
+ag586
+ag2203
+ag2783
+aVhistory introduced
+p3304
+aVviews cultures
+p3305
+aVintroduced creole
+p3306
+aVlouisiana life
+p3307
+aVlived modern
+p3308
+aVpreserves elements
+p3309
+aVlouisiana landmark
+p3310
+aVpositive needed
+p3311
+asS'HOBE'
+p3312
+(lp3313
+Vandrew jackson
+p3314
+aVimpacted development
+p3315
+aVhonor lost
+p3316
+aVindian establishment
+p3317
+aVhistory alabama
+p3318
+aVcareer remembering
+p3319
+aVwar demise
+p3320
+aVwar relative
+p3321
+aVend creek
+p3322
+aVlegacy significance
+p3323
+aVchanged outcome
+p3324
+aVland government
+p3325
+aVrise development
+p3326
+aVgovernment use
+p3327
+aVdefining establishment
+p3328
+aVestablish jackson
+p3329
+aVpresident jackson
+p3330
+aVplace brought
+p3331
+aVse war
+p3332
+aVremembering war
+p3333
+aVlearn learning
+p3334
+aVcreek war
+p3335
+aVeast mile
+p3336
+aVevent impacted
+p3337
+aVbeautifully defining
+p3338
+aVmistakes beautifully
+p3339
+asS'HOSP'
+p3340
+(lp3341
+Vhot springs
+p3342
+aVhistory hot
+p3343
+aVsprings bath
+p3344
+ag202
+ag3020
+aVhealing
+p3345
+aVpark unique
+p3346
+ag2903
+ag1054
+ag640
+ag3030
+aVloved
+p3347
+aVthings center
+p3348
+aVsprings land
+p3349
+aVspring trails
+p3350
+aVunique hot
+p3351
+aVutmost think
+p3352
+aVhealth geo
+p3353
+aVculturally high
+p3354
+aVbath houses
+p3355
+aVgeo thermal
+p3356
+asS'AZRU'
+p3357
+(lp3358
+g195
+aVpueblo people
+p3359
+aVhistory heritage
+p3360
+ag196
+aVheritage pueblo
+p3361
+ag763
+ag97
+ag202
+ag765
+aVancestral
+p3362
+aVpuebloan
+p3363
+ag449
+aVways
+p3364
+ag664
+ag194
+ag2266
+ag668
+aVteach people
+p3365
+ag807
+ag1488
+ag1368
+aVhistory nation
+p3366
+asS'WHIS'
+p3367
+(lp3368
+g2015
+ag42
+ag619
+aVjfk
+p3369
+ag7
+ag1257
+aVkennedy
+p3370
+ag2011
+ag836
+ag1521
+ag733
+ag144
+ag527
+aVrecreation water
+p3371
+aVwhiskey town
+p3372
+aVredding
+p3373
+ag56
+aVswimming
+p3374
+ag1529
+aVnorthern california
+p3375
+ag565
+aVbeauty northern
+p3376
+ag1657
+asS'FIIS'
+p3377
+(lp3378
+Vlong island
+p3379
+aVwilliam floyd
+p3380
+aVdeclaration independence
+p3381
+aVfloyd estate
+p3382
+aVsunken forest
+p3383
+ag76
+aVbeautiful beaches
+p3384
+ag1224
+aVwm floyd
+p3385
+aVbarrier beach
+p3386
+aVfloyd family
+p3387
+ag7
+ag727
+aVhome signer
+p3388
+aVsigner declaration
+p3389
+aVowner
+p3390
+asS'ABLI'
+p3391
+(lp3392
+g266
+ag2217
+aVbirthplace greatest
+p3393
+aVgreatest presidents
+p3394
+ag265
+ag1004
+ag143
+aVhistory abraham
+p3395
+ag188
+aVpresident abraham
+p3396
+ag329
+ag1323
+aVnations greatest
+p3397
+aVlincoln birth
+p3398
+ag1131
+ag3170
+asS'BOWA'
+p3399
+(lp3400
+g1592
+aVborn freed
+p3401
+aVwashington born
+p3402
+ag187
+ag1978
+aVwashington contribution
+p3403
+aVbooker born
+p3404
+aVhistory booker
+p3405
+aVlearn booker
+p3406
+aVlife slave
+p3407
+aVplantation
+p3408
+ag143
+ag89
+ag56
+ag179
+aVman
+p3409
+aVraised
+p3410
+aVeconomic opportunity
+p3411
+aVlife booker
+p3412
+aVdetermination
+p3413
+aVcivil
+p3414
+asS'FEHA'
+p3415
+(lp3416
+g174
+aVwashington inauguration
+p3417
+aVtook oath
+p3418
+aVportal
+p3419
+aVfederal hall
+p3420
+aVwashington took
+p3421
+aVpresident
+p3422
+aVhistoric building
+p3423
+aVamerican government
+p3424
+ag143
+ag2670
+ag488
+ag1595
+ag1677
+ag700
+aVfounding
+p3425
+ag696
+ag2124
+aVart
+p3426
+asS'SARI'
+p3427
+(lp3428
+Vcolumbus landing
+p3429
+aVlanding site
+p3430
+aVchristopher columbus
+p3431
+aVinfo island
+p3432
+aVislands
+p3433
+aVst croix
+p3434
+aVinterested
+p3435
+aVspot
+p3436
+aVpark alright
+p3437
+aVimpact occupation
+p3438
+aVnation undeveloped
+p3439
+aVhistorical vi
+p3440
+aVhistory tlanos
+p3441
+aVreal story
+p3442
+aVvi naturally
+p3443
+aVseeing info
+p3444
+aVcolumbus early
+p3445
+aVcolumbus crew
+p3446
+aVsurrounding columbus
+p3447
+aVcolumbus important
+p3448
+asS'WUPA'
+p3449
+(lp3450
+g195
+ag664
+ag668
+ag2742
+ag768
+ag51
+aVoriginal americans
+p3451
+ag671
+ag196
+aVtangible
+p3452
+ag673
+ag2506
+aVdestroyed
+p3453
+ag669
+ag767
+ag329
+ag1391
+ag1481
+ag143
+aVvolcano different
+p3454
+aVpast info
+p3455
+aVunderstood generally
+p3456
+aVinhabited country
+p3457
+asS'COLO'
+p3458
+(lp3459
+g1886
+aVpermanent english
+p3460
+aVjamestown
+p3461
+aVsettlement america
+p3462
+ag2217
+aVsettlement north
+p3463
+aVamerica permanent
+p3464
+aVpermanent settlement
+p3465
+ag76
+ag1403
+ag2382
+aVsite permanent
+p3466
+aVusa birth
+p3467
+aVsettlement birthplace
+p3468
+aVstarted
+p3469
+aVamerican settlement
+p3470
+aVplace nation
+p3471
+aVearliest
+p3472
+ag284
+aVdating
+p3473
+aVunderstand nation
+p3474
+asS'MORR'
+p3475
+(lp3476
+g284
+ag174
+ag1240
+aVmorristown
+p3477
+ag289
+aVnj
+p3478
+ag2216
+aVhistory revolutionary
+p3479
+ag543
+ag682
+ag1276
+aVencampment
+p3480
+aVbirth nation
+p3481
+ag1444
+ag143
+aVstayed
+p3482
+ag459
+asS'SARA'
+p3483
+(lp3484
+g285
+ag284
+ag289
+ag2422
+ag2417
+aVbattle saratoga
+p3485
+aVrevolution turning
+p3486
+ag288
+ag2421
+ag578
+aVhelped
+p3487
+aVfrance
+p3488
+aVpoint war
+p3489
+aVwin
+p3490
+ag1444
+aVbritish army
+p3491
+aVsaratoga turning
+p3492
+aVrevolution saratoga
+p3493
+asS'BLCA'
+p3494
+(lp3495
+Vglory beautiful
+p3496
+aVpark colorado
+p3497
+aVvertical
+p3498
+aVcanyon unique
+p3499
+ag494
+aVwonder
+p3500
+aVimmigrants
+p3501
+ag7
+aVbeautiful geological
+p3502
+aVbeauty geologic
+p3503
+aVdark sky
+p3504
+ag335
+ag1054
+ag153
+ag1500
+ag2899
+ag2426
+ag76
+asS'VIIS'
+p3505
+(lp3506
+g778
+aVcoral reef
+p3507
+ag2462
+aVtropical
+p3508
+aVst john
+p3509
+ag1529
+ag336
+ag42
+ag1153
+ag144
+ag622
+aVparadise
+p3510
+aVpreservation natural
+p3511
+ag3384
+ag3030
+ag729
+aVcinnamon bay
+p3512
+aVisland coral
+p3513
+asS'KEWE'
+p3514
+(lp3515
+Vcopper mining
+p3516
+aVhistory copper
+p3517
+aVhistory mining
+p3518
+aVmining history
+p3519
+ag1209
+ag3259
+ag565
+aVkeweenaw peninsula
+p3520
+aVmining nation
+p3521
+ag3501
+aVcopper industry
+p3522
+ag34
+aVupper
+p3523
+ag143
+aVlived worked
+p3524
+ag218
+aVhistory calumet
+p3525
+aVcopper mines
+p3526
+aVcopper history
+p3527
+aVmining keweenaw
+p3528
+aVhistory keweenaw
+p3529
+aVshows copper
+p3530
+asS'FODO'
+p3531
+(lp3532
+g401
+ag459
+aVunion victory
+p3533
+ag1083
+aVbeginning end
+p3534
+aVpoint civil
+p3535
+ag576
+ag285
+ag887
+aVtells good
+p3536
+aVbattle town
+p3537
+aVrangers especially
+p3538
+aVvisitors relatives
+p3539
+aVcontinued south
+p3540
+aVdescendents safe
+p3541
+aVgen grant
+p3542
+aVmovement significant
+p3543
+aVeagles park
+p3544
+aVchronicles civil
+p3545
+aVplay great
+p3546
+asS'KAHO'
+p3547
+(lp3548
+g21
+aVhistory hawaiian
+p3549
+aVhawaiians
+p3550
+aVhawaiian people
+p3551
+aVfish ponds
+p3552
+aVsea turtles
+p3553
+ag302
+aVhawaiian life
+p3554
+aVculture hawaiian
+p3555
+aVhawaiian history
+p3556
+ag1364
+ag570
+aVhawaiian fish
+p3557
+aVancient hawaiian
+p3558
+aVpreserve hawaii
+p3559
+aVgenerations hawaiian
+p3560
+aVnative hawaiian
+p3561
+aVearly hawaiian
+p3562
+asS'BOAF'
+p3563
+(lp3564
+g1859
+ag187
+ag1078
+ag182
+ag1736
+ag765
+aVhistory african
+p3565
+ag1588
+aVabolitionist movement
+p3566
+aVheritage trail
+p3567
+ag2173
+ag226
+aVcommunity boston
+p3568
+aVblack communities
+p3569
+aVboston important
+p3570
+asS'SPAR'
+p3571
+(lp3572
+g213
+aVguns
+p3573
+aVweaponry
+p3574
+ag715
+aVfirearms
+p3575
+aVnational armory
+p3576
+aVproduction
+p3577
+ag2679
+aVproduced
+p3578
+aVdevelopment
+p3579
+aVarmory history
+p3580
+aVarmory weapons
+p3581
+aVspringfield armory
+p3582
+ag202
+ag422
+ag709
+ag2124
+ag1217
+aVrifle awesome
+p3583
+aVwartime
+p3584
+asS'ROWI'
+p3585
+(lp3586
+g2232
+aVroger williams
+p3587
+aVfreedom religion
+p3588
+aVchurch state
+p3589
+aVtolerance
+p3590
+aVrhode island
+p3591
+aVseparation church
+p3592
+aVstate freedom
+p3593
+aVfreedom religious
+p3594
+aVbeginning religious
+p3595
+aVfocused freedom
+p3596
+aVhonors roger
+p3597
+aVfounder ri
+p3598
+aVprovidence
+p3599
+aVthinking
+p3600
+aVseparate
+p3601
+ag793
+aVfounded
+p3602
+asS'OZAR'
+p3603
+(lp3604
+Vcurrent river
+p3605
+aVmissouri
+p3606
+aVnatural spring
+p3607
+aVspring beautiful
+p3608
+ag1307
+ag657
+aVrivers springs
+p3609
+aVbeautiful spring
+p3610
+ag12
+aVspring natural
+p3611
+ag1303
+aVnatural river
+p3612
+ag76
+aVhills
+p3613
+aVenjoy nature
+p3614
+aVrepresentative
+p3615
+ag342
+ag830
+ag622
+aVgroup
+p3616
+asS'MORA'
+p3617
+(lp3618
+Vmt rainier
+p3619
+aVvolcano
+p3620
+ag250
+ag2071
+ag2066
+ag7
+aVcamping hiking
+p3621
+aVheritage nature
+p3622
+aVgrowth forest
+p3623
+aVpreserved beauty
+p3624
+ag1392
+aVwilderness area
+p3625
+aVbeauty place
+p3626
+aVglaciers
+p3627
+ag619
+aVactive
+p3628
+aVjohn
+p3629
+aVpark national
+p3630
+aVunique beauty
+p3631
+aVconnected
+p3632
+asS'FODA'
+p3633
+(lp3634
+Vbuffalo soldiers
+p3635
+ag2489
+ag324
+aVlife buffalo
+p3636
+aVsettlement frontier
+p3637
+ag1978
+aVfrontier forts
+p3638
+ag954
+aVamerican soldiers
+p3639
+aVsan antonio
+p3640
+aVdavis
+p3641
+aVrole african
+p3642
+aVlt
+p3643
+aVwestern settlement
+p3644
+ag433
+asS'CIRO'
+p3645
+(lp3646
+Vcalifornia trail
+p3647
+aVrock climbing
+p3648
+ag338
+aVclimbing great
+p3649
+ag3261
+aVworld class
+p3650
+ag7
+aVclimbing history
+p3651
+aVunique rock
+p3652
+ag619
+ag12
+aVformations climbing
+p3653
+aVgreat climbing
+p3654
+aVgeology climbing
+p3655
+aVclimbers
+p3656
+ag418
+ag202
+aVoutdoor
+p3657
+ag1259
+asS'CHRI'
+p3658
+(lp3659
+g3434
+aValexander hamilton
+p3660
+aVdenmark
+p3661
+ag319
+aVchristiansted
+p3662
+aVtransfer
+p3663
+ag1153
+ag202
+ag778
+ag973
+ag95
+aVcroix history
+p3664
+aVdanish history
+p3665
+aVislands history
+p3666
+aVhistory danish
+p3667
+aVhistory alexander
+p3668
+ag1126
+ag143
+aVhistory st
+p3669
+aVtell history
+p3670
+asS'NOCA'
+p3671
+(lp3672
+Vnorth cascades
+p3673
+ag3627
+ag336
+ag389
+ag42
+ag252
+ag390
+aVpreservation world
+p3674
+aVrugged beauty
+p3675
+aVaccess wilderness
+p3676
+aVbeauty access
+p3677
+ag76
+ag1925
+ag838
+ag1926
+ag1918
+ag2516
+ag1828
+asS'GETT'
+p3678
+(lp3679
+g1313
+ag401
+ag3535
+ag2273
+ag682
+aVhistorical battle
+p3680
+aVensure freedom
+p3681
+ag1065
+ag696
+ag285
+ag1431
+aVdied
+p3682
+ag1432
+ag1428
+aVhistory alive
+p3683
+ag143
+ag756
+aVhonor
+p3684
+aVsignificant battle
+p3685
+aVfallen
+p3686
+aVwar significant
+p3687
+aVfreedoms
+p3688
+asS'JEFF'
+p3689
+(lp3690
+g324
+aVdred scott
+p3691
+aVexpansion gateway
+p3692
+aVgateway westward
+p3693
+aVmanifest destiny
+p3694
+aVexpansion arch
+p3695
+ag3263
+ag3217
+aVwest westward
+p3696
+aVjefferson
+p3697
+aVexpansion usa
+p3698
+aVlouis
+p3699
+ag76
+aVdecision
+p3700
+ag1235
+ag2747
+ag1071
+asS'SACN'
+p3701
+(lp3702
+g3434
+aVcroix river
+p3703
+ag1083
+ag7
+aVriver way
+p3704
+ag12
+aVwater way
+p3705
+aVclean water
+p3706
+aVlogging
+p3707
+ag565
+ag827
+aVcroix important
+p3708
+aVbeautiful st
+p3709
+aVriverway
+p3710
+aVwater scenic
+p3711
+ag151
+aVclean river
+p3712
+ag835
+aVminnesota
+p3713
+aVcanoeing
+p3714
+ag834
+ag1301
+asS'VAMA'
+p3715
+(lp3716
+Vgilded age
+p3717
+aVexample gilded
+p3718
+aVgolden age
+p3719
+aVvanderbilt
+p3720
+aVmansion
+p3721
+ag853
+aVhudson
+p3722
+ag209
+aVestate
+p3723
+aVrepresentation gilded
+p3724
+aVlived gilded
+p3725
+aVage american
+p3726
+aVexample golden
+p3727
+aVrepresents period
+p3728
+aVrich people
+p3729
+aVmodest
+p3730
+aVhistory example
+p3731
+ag90
+aVlifestyle
+p3732
+aVage history
+p3733
+ag202
+asS'ELIS'
+p3734
+(lp3735
+Vellis island
+p3736
+aVhistory immigration
+p3737
+aVimmigration american
+p3738
+aVsymbol freedom
+p3739
+aVancestors
+p3740
+aVmelting pot
+p3741
+aVorigins
+p3742
+aVlike melting
+p3743
+aVopportunities want
+p3744
+aVtoday limiting
+p3745
+aVcountry basis
+p3746
+aVshows detailed
+p3747
+aVcenter affected
+p3748
+aVcountry strongest
+p3749
+aVhot potato
+p3750
+aVimmigrants learned
+p3751
+aVspeaks great
+p3752
+aVmake racist
+p3753
+aVimmigrants symbol
+p3754
+aVimmigrants united
+p3755
+asS'GUIS'
+p3756
+(lp3757
+g76
+ag106
+ag1224
+ag7
+ag2513
+ag401
+aVgulf coast
+p3758
+ag239
+ag42
+ag151
+ag702
+aVsightseeing
+p3759
+aVprotecting wild
+p3760
+aVenemy attack
+p3761
+aVtreasure gulf
+p3762
+ag1054
+aVwhite sand
+p3763
+ag202
+aVfort civil
+p3764
+asS'SAPA'
+p3765
+(lp3766
+g284
+aVcemetery
+p3767
+aVchurch
+p3768
+aVgood shows
+p3769
+aVshowed significance
+p3770
+aVwestchester
+p3771
+aVstudents
+p3772
+aVhistory artifacts
+p3773
+aVartifacts history
+p3774
+aVcolonial times
+p3775
+aVpark really
+p3776
+aVsignificance good
+p3777
+aVshows history
+p3778
+ag3479
+aVpark important
+p3779
+ag1528
+aVthink park
+p3780
+ag696
+aVteach history
+p3781
+asS'MIMA'
+p3782
+(lp3783
+g284
+ag76
+aVstart revolutionary
+p3784
+ag696
+aVshot heard
+p3785
+ag3469
+aVbegan
+p3786
+ag1787
+aVlexington concord
+p3787
+aVheard world
+p3788
+ag751
+aVamerican revolutionary
+p3789
+aVbeginning american
+p3790
+ag299
+aVmarks
+p3791
+aVindependent
+p3792
+ag721
+asS'JOFI'
+p3793
+(lp3794
+g2217
+aVkennedy family
+p3795
+ag442
+aVchildhood
+p3796
+ag1004
+aVbirthplace jfk
+p3797
+aVbirthplace president
+p3798
+aVjohn kennedy
+p3799
+aVjfk birthplace
+p3800
+ag90
+aVearly life
+p3801
+aVhistory jfk
+p3802
+ag807
+aVfake
+p3803
+aVpresident great
+p3804
+aVimportant family
+p3805
+asS'FOSM'
+p3806
+(lp3807
+g76
+aVindian territory
+p3808
+aVfort smith
+p3809
+ag1707
+ag700
+aVlaw order
+p3810
+ag143
+ag620
+ag3217
+ag202
+ag56
+ag435
+aVjustice
+p3811
+aVjudge parker
+p3812
+aVexpansion indian
+p3813
+aVlawlessness
+p3814
+aVft smith
+p3815
+ag807
+asS'FRHI'
+p3816
+(lp3817
+Valbert gallatin
+p3818
+aVgallatin important
+p3819
+ag1368
+ag1125
+aVsecretary treasury
+p3820
+aVhistory albert
+p3821
+aVfriendship hill
+p3822
+ag2124
+ag178
+ag90
+ag696
+aVgallatin life
+p3823
+aVbanking
+p3824
+aVfounding father
+p3825
+aVstatesman
+p3826
+aVknown
+p3827
+ag3163
+aVdebt
+p3828
+ag202
+aVsec treasury
+p3829
+asS'HEHO'
+p3830
+(lp3831
+Vherbert hoover
+p3832
+aVpresident hoover
+p3833
+aVhoover president
+p3834
+aVlife herbert
+p3835
+aVhoover important
+p3836
+ag803
+aVlearn herbert
+p3837
+aVhoover did
+p3838
+aVdid nation
+p3839
+ag439
+ag3409
+aVgreat depression
+p3840
+aVhumble beginnings
+p3841
+ag3804
+aVhistory herbert
+p3842
+aVhoover life
+p3843
+aVhoover contributions
+p3844
+aVpresident herbert
+p3845
+aVpres herbert
+p3846
+aVlearn hoover
+p3847
+asS'GRSA'
+p3848
+(lp3849
+g1507
+aVsand mountains
+p3850
+aVunique sand
+p3851
+ag2464
+ag619
+aVtreasure unique
+p3852
+ag7
+aVplace like
+p3853
+ag565
+aVhappy
+p3854
+aVdune provided
+p3855
+aVthings largest
+p3856
+aVinterface desert
+p3857
+aVcome matter
+p3858
+aVunlike big
+p3859
+aVnormally wouldn
+p3860
+aVgeological save
+p3861
+aVdune formation
+p3862
+aVforbidden unique
+p3863
+aVsingularly
+p3864
+asS'MIMI'
+p3865
+(lp3866
+Vcold war
+p3867
+aVnuclear war
+p3868
+aVhistory cold
+p3869
+ag459
+ag422
+ag1597
+ag1766
+aVwar cold
+p3870
+aVdeference
+p3871
+aVhistory nuclear
+p3872
+aVwar military
+p3873
+aVthreat
+p3874
+aVwar education
+p3875
+ag586
+ag35
+aVnational defense
+p3876
+ag1149
+aVhigh history
+p3877
+aVyes
+p3878
+ag321
+asS'FOSUa'
+p3879
+(lp3880
+g401
+aVstart civil
+p3881
+aVshot civil
+p3882
+aVwar started
+p3883
+aVbeginning civil
+p3884
+aVwar began
+p3885
+ag460
+aVwar shot
+p3886
+ag2679
+aVcharleston
+p3887
+ag3687
+ag459
+ag143
+ag202
+aVamerican civil
+p3888
+aVsite shot
+p3889
+aVfired civil
+p3890
+aVsite start
+p3891
+aVfort sumpter
+p3892
+asS'ARCH'
+p3893
+(lp3894
+g305
+aVnatural arches
+p3895
+ag42
+ag338
+ag336
+aVarches park
+p3896
+aVdelicate arch
+p3897
+aVvariety arches
+p3898
+aVformations arches
+p3899
+aVunseen
+p3900
+ag601
+aVcrust
+p3901
+aVarch amazing
+p3902
+aVcountry share
+p3903
+ag623
+aVareas
+p3904
+aVneed protected
+p3905
+aVbeauty country
+p3906
+ag613
+aVland park
+p3907
+asS'ULSG'
+p3908
+(lp3909
+Vgrant life
+p3910
+aVulysses grant
+p3911
+ag1317
+aVpresident grant
+p3912
+ag401
+aVhistory grant
+p3913
+aVgrant family
+p3914
+aVgrant home
+p3915
+aVlearn grant
+p3916
+ag187
+ag1078
+aVlife grant
+p3917
+aVgrant history
+p3918
+ag143
+aVgeneral grant
+p3919
+ag442
+aVfigure history
+p3920
+ag56
+ag1324
+ag1318
+asS'YUCH'
+p3921
+(lp3922
+Vgold mining
+p3923
+ag3519
+ag627
+aVyukon river
+p3924
+aVimportant alaska
+p3925
+ag2638
+ag639
+ag2637
+ag7
+aVhistory wildlife
+p3926
+aVenjoy background
+p3927
+aVscenery open
+p3928
+aVplace excellent
+p3929
+aVdredge absolutely
+p3930
+aVwilderness river
+p3931
+aVinvaluable richness
+p3932
+aVpreserved snapshot
+p3933
+aVdistrict park
+p3934
+aVlittle change
+p3935
+aVcities formed
+p3936
+aVhaving facility
+p3937
+asS'ANDE'
+p3938
+(lp3939
+Vpows
+p3940
+ag401
+aVpow museum
+p3941
+aVprisoners war
+p3942
+ag3688
+ag1770
+ag1428
+ag756
+aVold son
+p3943
+aVmuseum significant
+p3944
+aVsaddest
+p3945
+aVandersonville
+p3946
+aVwar prison
+p3947
+aVplace think
+p3948
+aVhigh cost
+p3949
+ag2127
+aVgenerations learn
+p3950
+aVservice men
+p3951
+ag3281
+asS'PETE'
+p3952
+(lp3953
+g401
+aVforks battle
+p3954
+aVexample trench
+p3955
+aVlongest siege
+p3956
+aVforget history
+p3957
+ag459
+ag3888
+aVprice
+p3958
+ag578
+ag706
+aVhelped join
+p3959
+aVana petersburg
+p3960
+aVheritage neat
+p3961
+aVpreserve education
+p3962
+aVinjured fought
+p3963
+aVtour progress
+p3964
+aVgrandson medium
+p3965
+aVwar ultimately
+p3966
+asS'GEWA'
+p3967
+(lp3968
+g174
+ag2217
+aVplace george
+p3969
+ag3402
+aVpresident birth
+p3970
+aVplace president
+p3971
+ag3825
+aVgw
+p3972
+ag1787
+ag3801
+aVprotecting heritage
+p3973
+aVplace shows
+p3974
+aVcountry founding
+p3975
+aVwashington birth
+p3976
+aVlife george
+p3977
+aVfather country
+p3978
+aVwashington important
+p3979
+aVcolonial life
+p3980
+ag1595
+asS'GRSM'
+p3981
+(lp3982
+g1091
+ag151
+ag622
+ag619
+ag1529
+ag624
+ag336
+aVnature beauty
+p3983
+aVnature history
+p3984
+ag767
+aVsmoky
+p3985
+aVlegacy american
+p3986
+ag1832
+aVnature natural
+p3987
+aVnatural areas
+p3988
+aVdiversity plant
+p3989
+ag51
+aVbeauty park
+p3990
+ag1057
+aVappalachian
+p3991
+aVanimal
+p3992
+aVchildren
+p3993
+asS'JOFL'
+p3994
+(lp3995
+Vjohnstown flood
+p3996
+ag2778
+aVdisasters
+p3997
+ag2773
+aVdevastating
+p3998
+aVdam broke
+p3999
+aVregulations
+p4000
+aVloss life
+p4001
+aVgreat loss
+p4002
+ag144
+aVdevastation
+p4003
+ag2772
+ag1362
+aVpower
+p4004
+aVperished
+p4005
+aVflood history
+p4006
+aVcautionary tale
+p4007
+aVhistory flood
+p4008
+aVtragedies
+p4009
+ag1065
+asS'SHIL'
+p4010
+(lp4011
+g401
+ag459
+ag586
+ag460
+ag1276
+ag3682
+aVimportant important
+p4012
+aVsides
+p4013
+ag578
+ag696
+ag1434
+ag36
+aVtimothy arnold
+p4014
+aVhistory corinth
+p4015
+aVwar makes
+p4016
+aVbattle shiloh
+p4017
+aVshiloh corinth
+p4018
+aVhistory shiloh
+p4019
+aVmemory civil
+p4020
+asS'CAGR'
+p4021
+(lp4022
+g202
+ag206
+ag194
+ag668
+ag1143
+ag143
+aVpast preservation
+p4023
+aVarcheological
+p4024
+ag762
+ag1484
+ag1488
+aVancestral people
+p4025
+ag2742
+aVancestor
+p4026
+ag622
+aVhistory significant
+p4027
+ag763
+ag671
+asS'SAAN'
+p4028
+(lp4029
+Vhistory texas
+p4030
+ag2489
+ag775
+ag3640
+aVsouth texas
+p4031
+aVtexas missions
+p4032
+ag3768
+aVhistory missions
+p4033
+ag2117
+ag1488
+aVspaniards
+p4034
+aVmissions texas
+p4035
+aVmissions history
+p4036
+aVreligious history
+p4037
+aVpeople south
+p4038
+ag3163
+ag1485
+aVtexan
+p4039
+aVearly texas
+p4040
+aVtexas culture
+p4041
+ag202
+asS'CHOH'
+p4042
+(lp4043
+g76
+ag42
+ag12
+aVclose capital
+p4044
+aVtransporting goods
+p4045
+aVohio canal
+p4046
+aVcanal canal
+p4047
+aVgeorgetown
+p4048
+ag143
+ag151
+aVriver valley
+p4049
+ag54
+ag401
+ag973
+ag2525
+ag7
+ag827
+ag1632
+ag1209
+ag202
+ag659
+asS'GRCA'
+p4050
+(lp4051
+g335
+aVdraw
+p4052
+ag153
+aVenglish speakers
+p4053
+aVjudging number
+p4054
+aVtrash bins
+p4055
+aVdomestically peaceful
+p4056
+aVservices safe
+p4057
+aVbeauty domestically
+p4058
+aVbest beauty
+p4059
+aVvisited grand
+p4060
+aVmajesty exceptionally
+p4061
+aVfantastic tourist
+p4062
+aVview reminds
+p4063
+aVproud judging
+p4064
+aVlife exists
+p4065
+aVsignificant lot
+p4066
+aVdiversity visitors
+p4067
+aVchanging ecosystems
+p4068
+aVcanyon privilege
+p4069
+aVepitome nation
+p4070
+aVsafe grand
+p4071
+aVlittering
+p4072
+aVpollution north
+p4073
+aVtreasure epitome
+p4074
+aVexceptionally displayed
+p4075
+asS'CHPI'
+p4076
+(lp4077
+Vcharles pinckney
+p4078
+aVsigner constitution
+p4079
+ag3381
+aVhistory charles
+p4080
+aVpinkney
+p4081
+aVpinckney founding
+p4082
+aVpinckney contribution
+p4083
+aVcarolina
+p4084
+ag2124
+ag1786
+aVgov
+p4085
+aVforgotten
+p4086
+ag3408
+aVlife times
+p4087
+aVhistorical figure
+p4088
+ag143
+asS'ROCR'
+p4089
+(lp4090
+g490
+ag4048
+aVrock creek
+p4091
+aVcreek park
+p4092
+aVnature middle
+p4093
+aVnature urban
+p4094
+ag1195
+ag479
+ag1350
+aVnations capital
+p4095
+ag80
+ag76
+ag1197
+aVgreen
+p4096
+aVbeautiful park
+p4097
+aVnature physical
+p4098
+aVlike closed
+p4099
+aVused ride
+p4100
+aVdc loved
+p4101
+aVwonderful component
+p4102
+aVdistrict great
+p4103
+asS'WICA'
+p4104
+(lp4105
+g7
+ag2079
+ag1855
+aVcave formations
+p4106
+ag12
+aVcave unique
+p4107
+aVbox work
+p4108
+aVwind cave
+p4109
+aVunique caves
+p4110
+aVdakota
+p4111
+aVamazing cave
+p4112
+ag620
+aVhistory cave
+p4113
+ag151
+ag554
+ag42
+ag869
+ag596
+aVve cave
+p4114
+aVbox formations
+p4115
+aVwork cave
+p4116
+aVfooted ferret
+p4117
+asS'SHEN'
+p4118
+(lp4119
+g42
+ag151
+ag619
+ag336
+ag2538
+ag1091
+ag3261
+ag1529
+ag307
+aVshenandoah
+p4120
+aVeastern
+p4121
+ag51
+ag1524
+ag622
+ag1362
+ag144
+ag3991
+ag393
+ag869
+ag56
+aVbeauty history
+p4122
+ag3030
+asS'HAGR'
+p4123
+(lp4124
+g3660
+ag3668
+ag1786
+aVhamilton hamilton
+p4125
+aVhamilton life
+p4126
+aVhome founding
+p4127
+aVhome important
+p4128
+aVtalk
+p4129
+ag80
+aVarchitect banking
+p4130
+aVforesight great
+p4131
+aVstructure really
+p4132
+aVremembered tribute
+p4133
+aVnyc country
+p4134
+aVgives look
+p4135
+aVamazing hamilton
+p4136
+aVfather children
+p4137
+aVworthy maintaining
+p4138
+aVfather significant
+p4139
+asS'WHMI'
+p4140
+(lp4141
+g2733
+ag762
+ag2769
+ag324
+aVwalla
+p4142
+ag435
+aVwhitman mission
+p4143
+ag624
+ag943
+ag328
+aVtrail westward
+p4144
+ag2730
+ag1369
+ag198
+aVwhite people
+p4145
+asS'PUHE'
+p4146
+(lp4147
+g3556
+aVhawaiian islands
+p4148
+aVking
+p4149
+ag21
+ag196
+aVunification islands
+p4150
+aVkamehameha
+p4151
+aVgeorge rocks
+p4152
+aVbuilding temple
+p4153
+aVunification hawaii
+p4154
+aVunite islands
+p4155
+ag143
+ag1488
+aVhistory hawaii
+p4156
+aVrocks history
+p4157
+aVhawaiian heritage
+p4158
+ag3551
+aVhistorical site
+p4159
+aVlearning
+p4160
+asS'GWMP'
+p4161
+(lp4162
+Vcanal
+p4163
+ag1071
+ag76
+ag174
+ag3684
+ag444
+ag42
+aVpotomac
+p4164
+ag1632
+ag3422
+ag336
+ag55
+aVglen echo
+p4165
+aVamusement park
+p4166
+ag405
+ag34
+aVhistoric
+p4167
+ag132
+aVlee
+p4168
+ag3018
+asS'PETR'
+p4169
+(lp4170
+Vexpressions
+p4171
+aValbuquerque
+p4172
+aVprotect petroglyphs
+p4173
+aVabq
+p4174
+ag3362
+aVcheck
+p4175
+ag3426
+ag321
+aVpueblo culture
+p4176
+ag195
+ag3740
+aVhistory ancient
+p4177
+ag3620
+ag97
+ag1362
+aVprevious
+p4178
+aVsite important
+p4179
+ag3501
+ag201
+ag1488
+ag202
+asS'MOCA'
+p4180
+(lp4181
+g3129
+ag673
+ag194
+ag202
+ag196
+ag195
+ag1488
+ag321
+ag198
+ag1440
+ag2742
+ag2046
+aVhistory indigenous
+p4182
+ag763
+ag675
+aVinteresting heritage
+p4183
+ag143
+aVpreserves history
+p4184
+ag2780
+ag2611
+asS'NABR'
+p4185
+(lp4186
+Vdark skies
+p4187
+aVbridges ruins
+p4188
+aVnatural bridges
+p4189
+aVarches
+p4190
+ag1157
+ag153
+aVnatural formations
+p4191
+ag8
+ag336
+ag76
+ag305
+aVnatural amazing
+p4192
+aVsmall brother
+p4193
+aVpreservation bridges
+p4194
+aVwonders generations
+p4195
+aVnice unusual
+p4196
+aVformations nation
+p4197
+aVavid landscape
+p4198
+aVancestral dark
+p4199
+aVdwelling bridges
+p4200
+asS'LYJO'
+p4201
+(lp4202
+Vlady bird
+p4203
+ag522
+aVlbj lady
+p4204
+aVlegacy lbj
+p4205
+aVranch
+p4206
+ag801
+ag803
+aVpresident family
+p4207
+ag442
+aVlbj presidency
+p4208
+aVtexas white
+p4209
+ag329
+aVhouse lbj
+p4210
+aVhistory lbj
+p4211
+aVlyndon
+p4212
+ag90
+ag143
+ag1134
+asS'WICL'
+p4213
+(lp4214
+Vpresident clinton
+p4215
+ag2217
+aVclinton home
+p4216
+aVclinton life
+p4217
+ag3796
+ag1131
+ag806
+aVpresident birthplace
+p4218
+ag3798
+ag1004
+aVclinton presidential
+p4219
+aVclinton birthplace
+p4220
+aVpresidential birth
+p4221
+aVrecent president
+p4222
+aVremember presidents
+p4223
+aVleaders come
+p4224
+aVclinton important
+p4225
+aVpresident background
+p4226
+asS'PUHO'
+p4227
+(lp4228
+g21
+ag3556
+ag3550
+aVhistory kapu
+p4229
+ag3549
+aVtemple
+p4230
+ag196
+aVgreat wall
+p4231
+aVlearn hawaiian
+p4232
+aVlearning hawaiian
+p4233
+ag1488
+ag620
+ag3551
+ag202
+aVculture hawaii
+p4234
+aVwall kapu
+p4235
+ag144
+ag669
+aVbig wall
+p4236
+aVpreservation hawaiian
+p4237
+aVimportant hawaiian
+p4238
+aVculture great
+p4239
+asS'ORCA'
+p4240
+(lp4241
+g76
+ag42
+ag305
+aVoregon
+p4242
+ag153
+ag596
+aVnatural wonder
+p4243
+ag12
+ag56
+ag2103
+ag1287
+ag143
+aVlearn caves
+p4244
+aVunique marble
+p4245
+aVcaves preservation
+p4246
+aVwonder cave
+p4247
+ag2899
+aVexplore
+p4248
+aVcaves cave
+p4249
+aVcaves amazing
+p4250
+aVcave beautiful
+p4251
+asS'PEFO'
+p4252
+(lp4253
+g1639
+aVpainted desert
+p4254
+ag12
+ag305
+ag7
+ag153
+aVlargest petrified
+p4255
+aVwood painted
+p4256
+ag1645
+ag42
+ag2360
+ag622
+ag51
+ag869
+ag1058
+ag144
+ag306
+aVpetrified forest
+p4257
+aVlogs
+p4258
+aVdesert petrified
+p4259
+aVimportant petrified
+p4260
+aVhistory painted
+p4261
+aVpetrified rock
+p4262
+asS'FOMA'
+p4263
+(lp4264
+g2116
+aVhistory florida
+p4265
+aVmatanzas
+p4266
+ag2126
+aVspanish heritage
+p4267
+ag319
+ag3669
+aVspanish history
+p4268
+aVspain
+p4269
+aVaugustine british
+p4270
+aVaugustine history
+p4271
+aVsignificant historical
+p4272
+aVcolonial
+p4273
+aVyes history
+p4274
+ag1149
+ag2045
+ag1143
+ag2257
+ag788
+aVinteresting history
+p4275
+asS'ZION'
+p4276
+(lp4277
+Vzion
+p4278
+aVnarrows
+p4279
+ag42
+ag1653
+ag336
+ag3000
+ag619
+ag8
+aVred
+p4280
+ag151
+ag622
+ag153
+aVgeologic wonder
+p4281
+aVgenerations geological
+p4282
+ag144
+ag338
+ag76
+aVlanding
+p4283
+aVgeological wonder
+p4284
+aVcolors
+p4285
+ag51
+aVplace world
+p4286
+ag3260
+asS'ORPI'
+p4287
+(lp4288
+Vorgan pipe
+p4289
+aVpipe cactus
+p4290
+aVsonoran desert
+p4291
+aVbiosphere
+p4292
+ag8
+ag7
+aVusa organ
+p4293
+aVdesert plants
+p4294
+ag2630
+ag12
+aVpipe cacti
+p4295
+aVarea organ
+p4296
+ag382
+ag144
+aVbio diversity
+p4297
+aVexample sonoran
+p4298
+ag2765
+aVflora
+p4299
+ag240
+asS'JAGA'
+p4300
+(lp4301
+Vpresident garfield
+p4302
+aVgarfield life
+p4303
+aVjames garfield
+p4304
+aVgarfield family
+p4305
+ag442
+ag806
+ag440
+ag807
+aVhistory garfield
+p4306
+aVpres garfield
+p4307
+ag143
+ag80
+ag1121
+aVhistory presidency
+p4308
+ag202
+aVexcellent tour
+p4309
+aVguide
+p4310
+ag56
+ag1492
+asS'CRMO'
+p4311
+(lp4312
+Vidaho
+p4313
+ag153
+ag303
+ag1394
+ag1390
+ag1502
+ag42
+ag1389
+ag2899
+aVgeography
+p4314
+ag341
+ag1023
+aVunique geologic
+p4315
+aVshows earth
+p4316
+aVhistory shows
+p4317
+ag1970
+aVway earth
+p4318
+aVland formed
+p4319
+aVuniqueness lava
+p4320
+asS'GEGR'
+p4321
+(lp4322
+Vsignificance historical
+p4323
+aVtomb
+p4324
+ag3919
+aVhistorical significance
+p4325
+ag3912
+ag76
+ag401
+aVgrant important
+p4326
+aVulysses
+p4327
+aVgrant contributions
+p4328
+aVend civil
+p4329
+aVgrave
+p4330
+ag1317
+aVhonoring
+p4331
+aVhistorical historical
+p4332
+aVpast president
+p4333
+aVvisited
+p4334
+aVimportant president
+p4335
+ag550
+ag187
+asS'SAGU'
+p4336
+(lp4337
+g4291
+aVsaguaro cactus
+p4338
+ag7
+ag252
+aVanimals sonoran
+p4339
+ag258
+ag1818
+ag1671
+ag2630
+ag4299
+ag2100
+ag1167
+aVplant life
+p4340
+aVsaguaro cacti
+p4341
+aVunique saguaro
+p4342
+aVenvironment saguaros
+p4343
+aVdesert saguaros
+p4344
+aVsaguaro forest
+p4345
+asS'SAIR'
+p4346
+(lp4347
+g1272
+ag919
+ag918
+ag923
+aVsteel industry
+p4348
+ag643
+ag1892
+aVorigin iron
+p4349
+aVearly industry
+p4350
+aVamerican iron
+p4351
+aViron working
+p4352
+aViron making
+p4353
+ag2217
+ag693
+ag925
+ag213
+aVengland
+p4354
+asS'BAND'
+p4355
+(lp4356
+g3359
+ag668
+ag1481
+ag194
+ag42
+ag200
+ag767
+ag2742
+ag196
+ag1488
+ag763
+ag51
+ag193
+ag807
+aVamericans adapted
+p4357
+ag671
+ag762
+ag3362
+ag673
+asS'DESO'
+p4358
+(lp4359
+Vdesoto
+p4360
+ag4265
+ag3223
+aVexpedition
+p4361
+ag2123
+aVeuropean
+p4362
+ag2081
+aVnatives
+p4363
+ag1368
+aVspanish explorers
+p4364
+aVcolonization
+p4365
+ag202
+ag1403
+ag56
+ag807
+ag1362
+ag37
+ag2126
+aVgood history
+p4366
+ag931
+asS'ANTI'
+p4367
+(lp4368
+g401
+aVemancipation proclamation
+p4369
+ag1432
+aVantietam
+p4370
+ag2273
+ag576
+ag459
+aVhallowed ground
+p4371
+ag460
+aVday battle
+p4372
+aVbloodiest day
+p4373
+ag143
+ag3684
+aVhistory remembrance
+p4374
+ag578
+ag285
+aVtook place
+p4375
+ag3682
+asS'ISRO'
+p4376
+(lp4377
+g783
+aVwolf moose
+p4378
+aVisolated
+p4379
+ag8
+ag2517
+ag151
+aVisolation
+p4380
+ag2100
+ag42
+ag1652
+ag3625
+ag389
+aVwolves moose
+p4381
+aVisle
+p4382
+ag144
+aVpure
+p4383
+aVuntouched wilderness
+p4384
+ag336
+aVtruly wilderness
+p4385
+aVmoose wolf
+p4386
+asS'MACA'
+p4387
+(lp4388
+g595
+ag593
+ag1394
+ag7
+aVmammoth cave
+p4389
+aVgun powder
+p4390
+aVlongest cave
+p4391
+ag2680
+ag4113
+ag305
+ag12
+ag8
+aVsalt peter
+p4392
+aVmake gunpowder
+p4393
+aVcave tours
+p4394
+aVsense adventure
+p4395
+ag3500
+asS'SAPU'
+p4396
+(lp4397
+g1363
+ag198
+ag195
+aVpueblo indians
+p4398
+ag1368
+ag143
+aVpueblo ruins
+p4399
+ag807
+ag1362
+aVmissions
+p4400
+aVspanish indian
+p4401
+ag196
+ag200
+ag4268
+aVarchitecture
+p4402
+ag4362
+ag1492
+aVreligion
+p4403
+ag1485
+asS'FOUS'
+p4404
+(lp4405
+g76
+ag435
+ag326
+ag658
+ag966
+aVrelations appreciation
+p4406
+aVwest extractive
+p4407
+aVindustry devastating
+p4408
+aValive regional
+p4409
+aVimpressed decades
+p4410
+aVcapitalist force
+p4411
+aVtrade network
+p4412
+aVwest extent
+p4413
+aVrelations important
+p4414
+aVtrade upper
+p4415
+aVlocation europeans
+p4416
+aVcapital fur
+p4417
+aVterritory major
+p4418
+aVtrade relationships
+p4419
+aVtrade native
+p4420
+aVtrade usa
+p4421
+aVexpansion trade
+p4422
+aVabsolutely fur
+p4423
+aVthings shaped
+p4424
+aVworld walmart
+p4425
+asS'GLAC'
+p4426
+(lp4427
+g3627
+ag151
+ag1225
+aVglacial
+p4428
+aVglacier beautiful
+p4429
+aVnature glacier
+p4430
+ag336
+ag2068
+ag3000
+ag144
+ag622
+aVpeople beauty
+p4431
+ag1840
+ag826
+ag305
+ag340
+ag1502
+ag608
+aVsimple exposure
+p4432
+aVages stripes
+p4433
+aVhabitats glacier
+p4434
+asS'CACO'
+p4435
+(lp4436
+Vcape cod
+p4437
+aVpilgrims
+p4438
+aVdunes
+p4439
+ag727
+ag1092
+ag42
+ag76
+ag336
+aVmaritime
+p4440
+aVbeauty cape
+p4441
+aVoutermost house
+p4442
+aVbird nesting
+p4443
+aVmarconi
+p4444
+ag151
+aVarea preservation
+p4445
+ag106
+aVbeautiful seashore
+p4446
+aVbeauty protected
+p4447
+aVseashore national
+p4448
+aVpark pristine
+p4449
+asS'TICA'
+p4450
+(lp4451
+g4106
+aVcaves natural
+p4452
+aVunique formations
+p4453
+aVpreserved cave
+p4454
+aVcave features
+p4455
+ag336
+ag42
+aVbeauty cave
+p4456
+ag1058
+aVunique cave
+p4457
+ag607
+aVcaves formations
+p4458
+aVuniqueness cave
+p4459
+aVhistory beautiful
+p4460
+ag56
+ag308
+aVformations preserved
+p4461
+aVbeautiful cave
+p4462
+aVbeautiful unique
+p4463
+asS'CACH'
+p4464
+(lp4465
+Vnavajo culture
+p4466
+ag194
+ag2014
+aVnavaho
+p4467
+ag1462
+ag12
+aVlearn navajo
+p4468
+ag673
+aVliving park
+p4469
+ag196
+aVnavajo people
+p4470
+aVhuman history
+p4471
+ag671
+aVbelieve park
+p4472
+ag305
+ag195
+aVhabitation
+p4473
+aVpeoples lived
+p4474
+aVearly people
+p4475
+ag7
+aVneeds told
+p4476
+asS'PECO'
+p4477
+(lp4478
+g317
+ag202
+ag1362
+ag198
+ag196
+aVpre
+p4479
+ag195
+ag401
+ag4176
+aVpecos pueblo
+p4480
+aVhistory pueblos
+p4481
+ag143
+ag668
+ag201
+ag2395
+ag318
+aVindian spanish
+p4482
+asS'INDU'
+p4483
+(lp4484
+g1505
+ag1507
+ag1508
+ag277
+aVaccess lake
+p4485
+ag42
+ag7
+ag619
+aVbogs
+p4486
+aVreal bog
+p4487
+aVlake dunes
+p4488
+aVsurrounding ecosystem
+p4489
+aVdunes surrounding
+p4490
+aVbeach unique
+p4491
+aVblack oak
+p4492
+aVpinhook bog
+p4493
+aVarea sand
+p4494
+aVarea dunes
+p4495
+aVlake wildlife
+p4496
+asS'STLI'
+p4497
+(lp4498
+Vstatue liberty
+p4499
+aVliberty symbol
+p4500
+aVfreedom symbol
+p4501
+ag3739
+ag3736
+aVsymbol america
+p4502
+ag3501
+aVfreedom liberty
+p4503
+ag2529
+aVbased welcome
+p4504
+aVheritage based
+p4505
+aVgift france
+p4506
+aVforeigners beautiful
+p4507
+aVfriendship france
+p4508
+aVlady symbol
+p4509
+aVdoesn care
+p4510
+aVhope represents
+p4511
+aVsymbol diversity
+p4512
+aVcare symbolism
+p4513
+aVpeople gained
+p4514
+asS'SAMO'
+p4515
+(lp4516
+Vsanta monica
+p4517
+ag2905
+aVmalibu
+p4518
+ag42
+ag565
+ag619
+ag981
+ag259
+ag76
+aVmonica mountains
+p4519
+aVstrauss
+p4520
+ag12
+ag7
+aVconcerts
+p4521
+aVca coast
+p4522
+ag1230
+aVkeeping open
+p4523
+aVhike
+p4524
+ag1654
+ag56
+aVwildlife native
+p4525
+ag1195
+aVlocal
+p4526
+ag2398
+asS'LIHO'
+p4527
+(lp4528
+Vlincoln home
+p4529
+ag273
+ag3170
+ag3158
+ag270
+ag272
+aVbetter history
+p4530
+aVlincoln lived
+p4531
+aVlincoln important
+p4532
+aVabe
+p4533
+aVneighborhood
+p4534
+ag266
+aVbest presidents
+p4535
+aVlincoln background
+p4536
+ag806
+aVmr lincoln
+p4537
+aVpeople lincoln
+p4538
+aVhome lincoln
+p4539
+ag807
+ag202
+asS'MOCR'
+p4540
+(lp4541
+g285
+ag284
+aVindependence nc
+p4542
+aVgives park
+p4543
+aVchoosing independence
+p4544
+aVpatriot victory
+p4545
+aVnc history
+p4546
+aVbattle fought
+p4547
+ag3685
+ag289
+ag2127
+ag292
+ag581
+ag1450
+aVrevolutionary victory
+p4548
+aVstate years
+p4549
+asS'WACA'
+p4550
+(lp4551
+g194
+ag195
+ag193
+ag7
+ag196
+ag671
+ag329
+ag664
+ag97
+ag622
+ag763
+aVhopi
+p4552
+ag198
+ag765
+ag767
+ag143
+ag51
+aVaz
+p4553
+ag2014
+ag4024
+ag807
+ag321
+asS'VICK'
+p4554
+(lp4555
+g401
+ag459
+aVbattle vicksburg
+p4556
+ag1433
+aVnorth south
+p4557
+ag584
+aVvicksburg key
+p4558
+aVcairo
+p4559
+ag1143
+aVwar outstanding
+p4560
+aVsacrifices sides
+p4561
+ag143
+aVhistory sacrifice
+p4562
+ag578
+aVbattleground
+p4563
+aVwar preserve
+p4564
+ag2151
+ag36
+ag460
+asS'SAMA'
+p4565
+(lp4566
+g957
+ag960
+ag972
+aVhistory salem
+p4567
+ag967
+ag658
+ag202
+aVsalem history
+p4568
+aVwitch trials
+p4569
+aVsalem maritime
+p4570
+aVnathaniel hawthorne
+p4571
+aVhistory colonial
+p4572
+ag1368
+aVhistory trade
+p4573
+aVcommercial
+p4574
+ag966
+ag2535
+ag962
+ag1752
+asS'TUMA'
+p4575
+(lp4576
+Vcatholic
+p4577
+ag2126
+ag2395
+ag4362
+aVsouthern arizona
+p4578
+ag143
+aVearly settlements
+p4579
+ag565
+ag620
+aVmissionaries
+p4580
+ag1440
+ag3768
+ag4403
+ag1488
+ag4402
+aVjesuits
+p4581
+aVmissions sw
+p4582
+asS'STEA'
+p4583
+(lp4584
+Vhistory steam
+p4585
+aVhistory railroads
+p4586
+aVrailroads helped
+p4587
+aVtransportation preserves
+p4588
+aVhistory trains
+p4589
+aVrailroading history
+p4590
+aVrailroad industry
+p4591
+aVsteam engines
+p4592
+aVlocomotives
+p4593
+ag426
+aVrr history
+p4594
+aVbuilding country
+p4595
+aVindustrial history
+p4596
+ag143
+aVpark represents
+p4597
+aVlocal history
+p4598
+asS'CRLA'
+p4599
+(lp4600
+Vcrater lake
+p4601
+ag3620
+aVdeepest lake
+p4602
+aVbeauty lake
+p4603
+ag2517
+ag1054
+aVvolcanic lake
+p4604
+aVblue lake
+p4605
+aVlake deepest
+p4606
+aVblue beautiful
+p4607
+ag4383
+ag336
+aVuniverse
+p4608
+ag1162
+ag3631
+ag3502
+ag1648
+ag565
+asS'FOBU'
+p4609
+(lp4610
+Vfossils historical
+p4611
+ag1638
+ag1175
+ag321
+aVevolution
+p4612
+aVfossil records
+p4613
+aVfossils area
+p4614
+ag153
+aVlearning fossils
+p4615
+aVnatural heritage
+p4616
+ag869
+ag622
+ag56
+ag1644
+ag1380
+aVeducating public
+p4617
+aVhistory earth
+p4618
+aVstudy fossil
+p4619
+aVfossils tell
+p4620
+asS'THST'
+p4621
+(lp4622
+g3381
+ag3389
+aVthomas stone
+p4623
+aVsigners declaration
+p4624
+aVstone signer
+p4625
+aVindependence signer
+p4626
+ag3388
+aVsigning declaration
+p4627
+aVindependence preserved
+p4628
+aVhistory thomas
+p4629
+aVindependence important
+p4630
+ag91
+aVindependence history
+p4631
+aVlearning signer
+p4632
+aVindependence thomas
+p4633
+aVindependence founding
+p4634
+aVfathers
+p4635
+aVsigned declaration
+p4636
+aVindependence preserving
+p4637
+asS'INDE'
+p4638
+(lp4639
+Vindependence hall
+p4640
+ag2217
+ag3381
+aVindependence signed
+p4641
+aVliberty bell
+p4642
+aVnation birth
+p4643
+ag2124
+ag3471
+ag1787
+ag76
+aVbeginning nation
+p4644
+ag3786
+aVdemocracy
+p4645
+aVfounding nation
+p4646
+ag793
+ag3469
+ag3481
+aVcentral
+p4647
+aVgrew
+p4648
+aVprocess
+p4649
+aVinvolved
+p4650
+asS'FOBO'
+p4651
+(lp4652
+Vapaches
+p4653
+ag702
+ag427
+aVbutterfield
+p4654
+aVapache wars
+p4655
+ag143
+ag624
+ag202
+ag435
+ag2780
+aVfort bowie
+p4656
+ag762
+ag322
+aVwhite
+p4657
+ag426
+ag434
+ag432
+ag2781
+ag943
+aVsw
+p4658
+asS'AMIS'
+p4659
+(lp4660
+Vnature water
+p4661
+ag4031
+ag3657
+ag3224
+ag56
+aVholes road
+p4662
+aVwhite bass
+p4663
+aVarea fishing
+p4664
+aVfriendship texas
+p4665
+aVoperating lake
+p4666
+aVfriendship significant
+p4667
+aVeducational native
+p4668
+aVcamping historical
+p4669
+aVkayaking black
+p4670
+aVnw indicating
+p4671
+aVbush park
+p4672
+aVexperience place
+p4673
+aVfishing ages
+p4674
+aVsignificant recreational
+p4675
+aVsignaled highway
+p4676
+asS'CALO'
+p4677
+(lp4678
+g2675
+ag1224
+aVnorth carolina
+p4679
+ag2013
+ag1534
+ag42
+aVbanks history
+p4680
+aVcape lookout
+p4681
+ag202
+aVhistory lighthouse
+p4682
+ag12
+ag957
+ag237
+ag727
+aVstrong
+p4683
+asS'LAVO'
+p4684
+(lp4685
+g303
+aVmt lassen
+p4686
+ag4284
+ag3620
+ag1393
+ag613
+aVfabulous
+p4687
+aVhabitat heard
+p4688
+aVaftermath beautiful
+p4689
+aVexample volcanic
+p4690
+aVlearn geothermal
+p4691
+aVwoods country
+p4692
+aVsignificant ease
+p4693
+aVhumans conquer
+p4694
+aVsignificant changes
+p4695
+aVtime planet
+p4696
+aVshows happened
+p4697
+aVhot pots
+p4698
+aVgoes recovery
+p4699
+aVpeak area
+p4700
+aVpacific rim
+p4701
+asS'ALPO'
+p4702
+(lp4703
+Vallegheny
+p4704
+aVportage railroad
+p4705
+ag2535
+aVpennsylvania
+p4706
+aVtransported
+p4707
+aVtransportation history
+p4708
+aVfaster
+p4709
+ag324
+aVhistory railroad
+p4710
+ag886
+ag1362
+aVshows
+p4711
+aVrailroad building
+p4712
+aVinnovation technology
+p4713
+aVcanals railroads
+p4714
+aVmountains railroad
+p4715
+asS'MAWA'
+p4716
+(lp4717
+Vmaggie walker
+p4718
+aVblack woman
+p4719
+aVamerican women
+p4720
+aVcontributions african
+p4721
+ag182
+aVrichmond
+p4722
+ag34
+ag1986
+ag1942
+ag1588
+aVvisit extremely
+p4723
+aVfemale bank
+p4724
+aVamerican female
+p4725
+aVwork determination
+p4726
+ag1125
+as.

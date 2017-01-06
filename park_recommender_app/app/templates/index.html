@@ -1,0 +1,49 @@
+
+{% extends 'base.html' %}
+
+{% block body %}
+  <section class="header">
+    <h2 class="title">National Park Service Site Recommender</h2>
+  </section>
+  <hr />
+
+  <div class="content">
+    <form method="POST">
+      {{ form.hidden_tag() }}
+      <div style = font-size:20px; font-weight:bold; margin-left:150px;>
+              {{ form.statement_text.label }}<br>
+              {{ form.statement_text(cols="100", rows="80") }}
+              <br>
+     </div>
+
+      <div class="row">
+        <button type="submit" class="button-primary">Submit</button>
+      </div>
+    </form>
+  {% if predictions[0] %}
+  <div style = font-size:20px; font-weight:bold; margin-left:150px;>
+      We've found a few great parks for you to visit!  Based on what you've said, our top recommendation is:
+  </div>
+  <div align = "center" style = font-size:30px; font-weight:bold; margin-left:150px;>
+      <h2>{{ predictions[0] }}</h2>
+      <img src="{{url_for('static', filename='images/' + predictions[0] + '.jpg')}}"
+             height="200">
+  </div>
+  <div align = "center" style = font-size:20px; font-weight:bold; margin-left:150px;>
+      We also strongly recommend:
+  </div>
+    <ol align = "center">
+        {% for prediction in predictions[1:] %}
+        <li>{{ prediction }}</li>
+        {% endfor %}
+    </ol>
+  {% endif %}
+  </div>
+{% endblock body %}
+
+{% block js %}
+  <script type="text/javascript">
+  // your JS Code
+  // Your D3 code could be here
+  </script>
+{% endblock js %}
